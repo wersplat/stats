@@ -1,5 +1,5 @@
 {
-  "name": "game-recaps",
+  "name": "stats",
   "version": "1.0.0",
   "description": "A static website to display game recaps",
   "main": "_worker.js",
