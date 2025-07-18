@@ -296,8 +296,8 @@ async function handleRequest(request) {
         const fileName = path.split('/').pop();
         if (fileName.endsWith('_recap.txt')) {
             try {
-                // Try to fetch the recap file
-                const response = await fetch(new URL(fileName, url.origin));
+                // Try to fetch the recap file from the recaps directory
+                const response = await fetch(new URL(`recaps/${fileName}`, url.origin));
                 if (!response.ok) throw new Error('Recap not found');
                 
                 const text = await response.text();
