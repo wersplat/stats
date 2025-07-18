@@ -273,22 +273,20 @@ const RECAP_FILES = [
     "Watch_Greatness_vs_Coatesville_UPA_7496_recap.txt"
 ];
 
-addEventListener('fetch', event => {
-    event.respondWith(handleRequest(event.request));
-});
-
-async function handleRequest(request) {
+// Handle incoming requests
+export default {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const path = url.pathname;
 
     // Handle API endpoint for listing recaps
     if (path === '/api/recaps') {
-        return new Response(JSON.stringify(RECAP_FILES), {
-            headers: { 
-                'Content-Type': 'application/json',
-                'Access-Control-Allow-Origin': '*'
-            }
-        });
+      return new Response(JSON.stringify(RECAP_FILES), {
+        headers: { 
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*'
+        }
+      });
     }
 
     // Handle individual recap files
@@ -355,4 +353,5 @@ async function handleRequest(request) {
 
     // For all other requests, serve the static files
     return fetch(request);
-}
+  }
+};

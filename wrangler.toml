@@ -1,12 +1,6 @@
 name = "stats"
 compatibility_date = "2025-07-18"
-main = "_worker.js"
-
-[site]
-bucket = "."
+pages_build_output_dir = "dist"
 
 [build]
 command = "npm run build"
-
-[deployment]
-workers_dev = true
