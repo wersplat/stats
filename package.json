@@ -1,0 +1,16 @@
+{
+  "name": "game-recaps",
+  "version": "1.0.0",
+  "description": "A static website to display game recaps",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "deploy": "npm run build && wrangler pages deploy ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

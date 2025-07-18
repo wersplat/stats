@@ -1,0 +1,13 @@
+name = "game-recaps"
+compatibility_date = "2025-07-18"
+
+[site]
+bucket = "."
+
+[[routers]]
+rule = "/*"
+module = "./_worker.js"
+
+[build]
+command = ""
+publish = "."
