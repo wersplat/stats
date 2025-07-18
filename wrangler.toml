@@ -1,13 +1,12 @@
 name = "stats"
 compatibility_date = "2025-07-18"
+main = "_worker.js"
 
 [site]
 bucket = "."
 
-[[routers]]
-rule = "/*"
-module = "./_worker.js"
-
 [build]
-command = ""
-publish = "."
+command = "npm run build"
+
+[deployment]
+workers_dev = true
