@@ -1,0 +1,79 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+In Charge vs On Site
+Date: Thursday, January 09, 2025 12:06 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         In Charge 2K              On Site                  
+---------------------------------------------------------------------------
+Field Goals:              0-0 (0.0%)                27-52 (51.9%)            
+3-Pointers:               0-0 (0.0%)                14-28 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 0                         20                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  0                         16                       
+Steals:                   0                         13                       
+Blocks:                   0                         0                        
+Turnovers:                0                         6                        
+Fouls:                    0                         10                       
+Points:                   0                         70                       
+True Shooting %:          0.0%                      67.3%                    
+Assist/TO Ratio:          0.0                       2.7                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+In Charge 2K Players:
+  P7Precise (In Charge 2K): 0 PTS, 0 REB, 0 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  IlDosh (In Charge 2K): 0 PTS, 0 REB, 0 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  llJMAR (In Charge 2K): 0 PTS, 0 REB, 0 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  Amoon (In Charge 2K): 0 PTS, 0 REB, 0 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  Chuba (In Charge 2K): 0 PTS, 0 REB, 0 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+
+On Site Players:
+  IlDosh (On Site): 36 PTS, 1 REB, 3 AST
+     14-23 FG (60.9%), 8-15 3FG (53.3%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 0 TO, 3.0 pf
+  P7Precise (On Site): 14 PTS, 0 REB, 5 AST
+     5-16 FG (31.2%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO
+  llJMAR (On Site): 9 PTS, 0 REB, 2 AST
+     4-5 FG (80.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 4.0 pf
+  Chuba (On Site): 8 PTS, 16 REB, 4 AST
+     3-6 FG (50.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  Amoon (On Site): 3 PTS, 3 REB, 2 AST
+     1-2 FG (50.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 2 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 36 points.
+* Chuba (On Site) (On Site) dominated the boards with 16 rebounds.
+* P7Precise (On Site) (On Site) dished out a game-high 5 assists.
+
+* On Site shot 51.9% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for On Site.
+
+==================================================

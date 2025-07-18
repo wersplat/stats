@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+On Site vs Dirty Birch
+Date: Saturday, March 22, 2025 11:06 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         On Site                   Dirty Birch              
+---------------------------------------------------------------------------
+Field Goals:              29-56 (51.8%)             28-47 (59.6%)            
+3-Pointers:               17-37 (45.9%)             19-33 (57.6%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 26                        18                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  19                        26                       
+Steals:                   9                         6                        
+Blocks:                   2                         1                        
+Turnovers:                7                         12                       
+Fouls:                    5                         9                        
+Points:                   82                        76                       
+True Shooting %:          73.2%                     80.9%                    
+Assist/TO Ratio:          2.7                       2.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+On Site Players:
+  IlDosh (On Site): 36 PTS, 0 REB, 2 AST
+     12-17 FG (70.6%), 11-16 3FG (68.8%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 2.0 pf
+  P7Precise (On Site): 18 PTS, 0 REB, 6 AST
+     5-17 FG (29.4%), 4-14 3FG (28.6%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+  llJMAR (On Site): 13 PTS, 2 REB, 4 AST
+     5-10 FG (50.0%), 1-5 3FG (20.0%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 2.0 pf
+  Chuba (On Site): 8 PTS, 12 REB, 5 AST
+     4-6 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+  AintThatOurBall (On Site): 7 PTS, 12 REB, 2 AST
+     3-6 FG (50.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 2 BLK, 1 TO, 1.0 pf
+
+Dirty Birch Players:
+  Icy (Dirty Birch): 27 PTS, 1 REB, 0 AST
+     10-20 FG (50.0%), 6-15 3FG (40.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 2.0 pf
+  SKD SILKY (Dirty Birch): 18 PTS, 2 REB, 1 AST
+     6-7 FG (85.7%), 6-7 3FG (85.7%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 3 TO, 2.0 pf
+  chop7041 (Dirty Birch): 16 PTS, 5 REB, 5 AST
+     6-7 FG (85.7%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 1.0 pf
+  Swaggy J (Dirty Birch): 9 PTS, 1 REB, 18 AST
+     3-8 FG (37.5%), 3-6 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 4 TO, 1.0 pf
+  Demaatic (Dirty Birch): 6 PTS, 9 REB, 2 AST
+     3-5 FG (60.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 3.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 36 points.
+* AintThatOurBall (On Site) (On Site) dominated the boards with 12 rebounds.
+* Swaggy J (Dirty Birch) (Dirty Birch) dished out a game-high 18 assists.
+
+* On Site shot 51.8% from the field
+  and 45.9% from three-point range.
+  Efficient shooting night for On Site.
+
+* Dirty Birch shot 59.6% from the field
+  and 57.6% from three-point range.
+  Efficient shooting night for Dirty Birch.
+
+==================================================

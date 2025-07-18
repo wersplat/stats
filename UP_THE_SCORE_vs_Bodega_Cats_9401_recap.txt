@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+UP THE SCORE vs Bodega Cats
+Date: Tuesday, March 11, 2025 03:16 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         UP THE SCORE              Bodega Cats              
+---------------------------------------------------------------------------
+Field Goals:              27-49 (55.1%)             24-44 (54.5%)            
+3-Pointers:               16-30 (53.3%)             13-23 (56.5%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 20                        19                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  15                        19                       
+Steals:                   6                         3                        
+Blocks:                   2                         2                        
+Turnovers:                3                         7                        
+Fouls:                    6                         9                        
+Points:                   75                        64                       
+True Shooting %:          76.5%                     72.7%                    
+Assist/TO Ratio:          5.0                       2.7                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+UP THE SCORE Players:
+  Lil Kahn (UP THE SCORE): 30 PTS, 1 REB, 4 AST
+     10-17 FG (58.8%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  PapasPlugged (UP THE SCORE): 20 PTS, 0 REB, 2 AST
+     7-15 FG (46.7%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  CoMalone (UP THE SCORE): 11 PTS, 2 REB, 1 AST
+     4-6 FG (66.7%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     2 STL, 2 BLK, 0 TO
+  Saintistics (UP THE SCORE): 8 PTS, 1 REB, 0 AST
+     3-5 FG (60.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  Plucknoss (UP THE SCORE): 6 PTS, 16 REB, 8 AST
+     3-6 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+
+Bodega Cats Players:
+  Goldenboy YP (Bodega Cats): 24 PTS, 0 REB, 7 AST
+     9-17 FG (52.9%), 6-9 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 3.0 pf
+  GK1LLER77 (Bodega Cats): 16 PTS, 1 REB, 4 AST
+     5-11 FG (45.5%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 2.0 pf
+  T2E xLOUx X6 (Bodega Cats): 10 PTS, 14 REB, 3 AST
+     5-7 FG (71.4%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO
+  IVIr SyN (Bodega Cats): 9 PTS, 4 REB, 1 AST
+     3-4 FG (75.0%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  o_ihoop5_o (Bodega Cats): 5 PTS, 0 REB, 4 AST
+     2-5 FG (40.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 1 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Lil Kahn (UP THE SCORE) (UP THE SCORE) led all scorers with 30 points.
+* Plucknoss (UP THE SCORE) (UP THE SCORE) dominated the boards with 16 rebounds.
+* Plucknoss (UP THE SCORE) (UP THE SCORE) dished out a game-high 8 assists.
+
+* UP THE SCORE shot 55.1% from the field
+  and 53.3% from three-point range.
+  Efficient shooting night for UP THE SCORE.
+  Excellent ball protection with just 3 turnovers.
+
+* Bodega Cats shot 54.5% from the field
+  and 56.5% from three-point range.
+  Efficient shooting night for Bodega Cats.
+
+==================================================

@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Vulture Island GM vs New Direction
+Date: Thursday, March 13, 2025 12:37 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Vulture Island GM         New Era                  
+---------------------------------------------------------------------------
+Field Goals:              27-58 (46.6%)             24-41 (58.5%)            
+3-Pointers:               14-37 (37.8%)             14-26 (53.8%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 26                        19                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  17                        20                       
+Steals:                   11                        6                        
+Blocks:                   0                         0                        
+Turnovers:                6                         13                       
+Fouls:                    6                         9                        
+Points:                   71                        62                       
+True Shooting %:          61.2%                     75.6%                    
+Assist/TO Ratio:          2.8                       1.5                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Vulture Island GM Players:
+  Nxtionz (Vulture Island GM): 26 PTS, 1 REB, 4 AST
+     10-15 FG (66.7%), 6-10 3FG (60.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 2.0 pf
+  iJack3s (Vulture Island GM): 16 PTS, 0 REB, 4 AST
+     6-25 FG (24.0%), 4-18 3FG (22.2%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  RayCapalot (Vulture Island GM): 15 PTS, 1 REB, 0 AST
+     5-8 FG (62.5%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 2 TO, 3.0 pf
+  He Got Dior (Vulture Island GM): 11 PTS, 20 REB, 6 AST
+     5-5 FG (100.0%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+  ZayDPOY (Vulture Island GM): 3 PTS, 4 REB, 3 AST
+     1-5 FG (20.0%), 1-5 3FG (20.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 1.0 pf
+
+New Era Players:
+  TF-ToFrio (New Era): 23 PTS, 1 REB, 0 AST
+     8-11 FG (72.7%), 7-8 3FG (87.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  Marco HZ (New Era): 13 PTS, 7 REB, 2 AST
+     5-7 FG (71.4%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 2.0 pf
+  Drippy SZN (New Era): 12 PTS, 0 REB, 6 AST
+     5-11 FG (45.5%), 2-8 3FG (25.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 5 TO, 2.0 pf
+  EasyMoneyy (New Era): 8 PTS, 0 REB, 5 AST
+     3-8 FG (37.5%), 2-6 3FG (33.3%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 2.0 pf
+  Jaay (New Era): 6 PTS, 11 REB, 7 AST
+     3-4 FG (75.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 5 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Nxtionz (Vulture Island GM) (Vulture Island GM) led all scorers with 26 points.
+* He Got Dior (Vulture Island GM) (Vulture Island GM) dominated the boards with 20 rebounds.
+* Jaay (New Era) (New Era) dished out a game-high 7 assists.
+
+* Vulture Island GM shot 46.6% from the field
+  and 37.8% from three-point range.
+
+* New Era shot 58.5% from the field
+  and 53.8% from three-point range.
+  Efficient shooting night for New Era.
+
+==================================================

@@ -1,0 +1,81 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Glue Guys vs The Takeover
+Date: Monday, January 20, 2025 01:20 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Glue Guys                 The Takeover             
+---------------------------------------------------------------------------
+Field Goals:              26-40 (65.0%)             23-43 (53.5%)            
+3-Pointers:               5-12 (41.7%)              13-24 (54.2%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 13                        19                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  18                        12                       
+Steals:                   2                         9                        
+Blocks:                   2                         4                        
+Turnovers:                6                         2                        
+Fouls:                    8                         13                       
+Points:                   61                        63                       
+True Shooting %:          76.2%                     73.3%                    
+Assist/TO Ratio:          3.0                       6.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Glue Guys Players:
+  vNoVision (Glue Guys): 20 PTS, 1 REB, 16 AST
+     8-16 FG (50.0%), 3-6 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  Easy Macaroni (Glue Guys): 16 PTS, 12 REB, 2 AST
+     7-8 FG (87.5%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 2 BLK, 1 TO, 1.0 pf
+  JJBaretta (Glue Guys): 15 PTS, 0 REB, 0 AST
+     6-8 FG (75.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 2.0 pf
+  xKezzamo (Glue Guys): 10 PTS, 0 REB, 0 AST
+     5-8 FG (62.5%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 3.0 pf
+
+The Takeover Players:
+  Keylofading (The Takeover): 24 PTS, 0 REB, 7 AST
+     7-18 FG (38.9%), 6-14 3FG (42.9%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  Noo spacee (The Takeover): 11 PTS, 9 REB, 1 AST
+     4-6 FG (66.7%), 3-3 3FG (100.0%), 0-0 FT (0.0%)
+     4 STL, 2 BLK, 0 TO, 5.0 pf
+  MrNikeCash (The Takeover): 11 PTS, 9 REB, 1 AST
+     4-6 FG (66.7%), 3-3 3FG (100.0%), 0-0 FT (0.0%)
+     4 STL, 2 BLK, 0 TO, 5.0 pf
+  NovaAssazzin (The Takeover): 9 PTS, 1 REB, 2 AST
+     4-7 FG (57.1%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  BigGloPrince (The Takeover): 8 PTS, 0 REB, 1 AST
+     4-6 FG (66.7%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Keylofading (The Takeover) (The Takeover) led all scorers with 24 points.
+* Easy Macaroni (Glue Guys) (Glue Guys) dominated the boards with 12 rebounds.
+* vNoVision (Glue Guys) (Glue Guys) dished out a game-high 16 assists.
+
+* Glue Guys shot 65.0% from the field
+  and 41.7% from three-point range.
+  Efficient shooting night for Glue Guys.
+
+* The Takeover shot 53.5% from the field
+  and 54.2% from three-point range.
+  Efficient shooting night for The Takeover.
+  Excellent ball protection with just 2 turnovers.
+
+==================================================

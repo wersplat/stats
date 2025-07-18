@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Coatesville UPA vs New Era
+Date: Monday, February 24, 2025 10:30 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Coatesville UPA           New Era                  
+---------------------------------------------------------------------------
+Field Goals:              19-40 (47.5%)             22-37 (59.5%)            
+3-Pointers:               9-19 (47.4%)              13-22 (59.1%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 14                        17                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  15                        16                       
+Steals:                   6                         3                        
+Blocks:                   0                         3                        
+Turnovers:                8                         8                        
+Fouls:                    8                         7                        
+Points:                   53                        63                       
+True Shooting %:          66.2%                     85.1%                    
+Assist/TO Ratio:          1.9                       2.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Coatesville UPA Players:
+  Seese (Coatesville UPA): 22 PTS, 1 REB, 9 AST
+     7-14 FG (50.0%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 1.0 pf
+  Envyzayyy (Coatesville UPA): 17 PTS, 0 REB, 2 AST
+     5-10 FG (50.0%), 5-8 3FG (62.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  ShaqLeonard (Coatesville UPA): 6 PTS, 0 REB, 0 AST
+     3-5 FG (60.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+  LottoDaDon (Coatesville UPA): 6 PTS, 10 REB, 3 AST
+     3-7 FG (42.9%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  VerifiedEman (Coatesville UPA): 2 PTS, 3 REB, 1 AST
+     1-4 FG (25.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 3.0 pf
+
+New Era Players:
+  Drippy SZN (New Era): 27 PTS, 0 REB, 4 AST
+     9-15 FG (60.0%), 5-8 3FG (62.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 5 TO, 1.0 pf
+  Marco HZ (New Era): 19 PTS, 5 REB, 3 AST
+     7-7 FG (100.0%), 5-5 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 0 TO, 1.0 pf
+  xBiberon (New Era): 10 PTS, 2 REB, 3 AST
+     3-6 FG (50.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO, 3.0 pf
+  Thxcomeback (New Era): 7 PTS, 0 REB, 3 AST
+     3-8 FG (37.5%), 1-6 3FG (16.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+  Jaay (New Era): 0 PTS, 10 REB, 3 AST
+     0-1 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 2 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Drippy SZN (New Era) (New Era) led all scorers with 27 points.
+* LottoDaDon (Coatesville UPA) (Coatesville UPA) dominated the boards with 10 rebounds.
+* Seese (Coatesville UPA) (Coatesville UPA) dished out a game-high 9 assists.
+
+* Coatesville UPA shot 47.5% from the field
+  and 47.4% from three-point range.
+
+* New Era shot 59.5% from the field
+  and 59.1% from three-point range.
+  Efficient shooting night for New Era.
+
+==================================================

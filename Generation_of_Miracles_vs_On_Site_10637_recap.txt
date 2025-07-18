@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Generation of Miracles vs On Site
+Date: Monday, March 24, 2025 11:23 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Generation of Miracles    On Site                  
+---------------------------------------------------------------------------
+Field Goals:              27-45 (60.0%)             23-41 (56.1%)            
+3-Pointers:               8-23 (34.8%)              14-26 (53.8%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 17                        16                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  20                        14                       
+Steals:                   5                         3                        
+Blocks:                   1                         0                        
+Turnovers:                7                         7                        
+Fouls:                    12                        10                       
+Points:                   63                        69                       
+True Shooting %:          70.0%                     84.1%                    
+Assist/TO Ratio:          2.9                       2.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Generation of Miracles Players:
+  LeSav James (Generation of Miracles): 23 PTS, 0 REB, 2 AST
+     9-13 FG (69.2%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 4.0 pf
+  xoJask (Generation of Miracles): 16 PTS, 14 REB, 3 AST
+     8-9 FG (88.9%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 2 TO, 1.0 pf
+  AdolfHitner (Generation of Miracles): 13 PTS, 1 REB, 2 AST
+     5-10 FG (50.0%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 4 TO, 4.0 pf
+  DrenchGod919 (Generation of Miracles): 7 PTS, 0 REB, 13 AST
+     3-10 FG (30.0%), 1-7 3FG (14.3%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  He Move Cut (Generation of Miracles): 4 PTS, 2 REB, 0 AST
+     2-3 FG (66.7%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+
+On Site Players:
+  IlDosh (On Site): 29 PTS, 0 REB, 1 AST
+     11-16 FG (68.8%), 7-10 3FG (70.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 4.0 pf
+  P7Precise (On Site): 19 PTS, 0 REB, 7 AST
+     5-14 FG (35.7%), 4-9 3FG (44.4%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 1.0 pf
+  Chuba (On Site): 10 PTS, 12 REB, 4 AST
+     3-4 FG (75.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  llJMAR (On Site): 8 PTS, 1 REB, 1 AST
+     3-5 FG (60.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 3.0 pf
+  BronneJames (On Site): 3 PTS, 3 REB, 1 AST
+     1-2 FG (50.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 29 points.
+* xoJask (Generation of Miracles) (Generation of Miracles) dominated the boards with 14 rebounds.
+* DrenchGod919 (Generation of Miracles) (Generation of Miracles) dished out a game-high 13 assists.
+
+* Generation of Miracles shot 60.0% from the field
+  and 34.8% from three-point range.
+  Efficient shooting night for Generation of Miracles.
+
+* On Site shot 56.1% from the field
+  and 53.8% from three-point range.
+  Efficient shooting night for On Site.
+
+==================================================

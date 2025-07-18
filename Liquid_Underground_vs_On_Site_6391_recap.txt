@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Liquid Underground vs On Site
+Date: Thursday, January 09, 2025 09:16 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Liquid Underground        On Site                  
+---------------------------------------------------------------------------
+Field Goals:              22-42 (52.4%)             24-44 (54.5%)            
+3-Pointers:               10-23 (43.5%)             15-30 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 20                        18                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  11                        16                       
+Steals:                   5                         10                       
+Blocks:                   0                         0                        
+Turnovers:                11                        6                        
+Fouls:                    7                         7                        
+Points:                   56                        65                       
+True Shooting %:          66.7%                     73.9%                    
+Assist/TO Ratio:          1.0                       2.7                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Liquid Underground Players:
+  RayRayCBG (Liquid Underground): 18 PTS, 0 REB, 5 AST
+     6-13 FG (46.2%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 7 TO, 1.0 pf
+  Jules TwD (Liquid Underground): 18 PTS, 0 REB, 2 AST
+     6-12 FG (50.0%), 5-11 3FG (45.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  ThyReelManny (Liquid Underground): 10 PTS, 3 REB, 1 AST
+     5-7 FG (71.4%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 3.0 pf
+  Mav 39 Ace (Liquid Underground): 6 PTS, 0 REB, 1 AST
+     3-4 FG (75.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  JackNFo (Liquid Underground): 4 PTS, 17 REB, 2 AST
+     2-6 FG (33.3%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+
+On Site Players:
+  IlDosh (On Site): 29 PTS, 0 REB, 6 AST
+     10-20 FG (50.0%), 9-16 3FG (56.2%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 2.0 pf
+  P7Precise (On Site): 14 PTS, 1 REB, 4 AST
+     5-11 FG (45.5%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  Chuba (On Site): 12 PTS, 12 REB, 4 AST
+     5-8 FG (62.5%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  Amoon (On Site): 6 PTS, 3 REB, 2 AST
+     2-3 FG (66.7%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 2.0 pf
+  llJMAR (On Site): 4 PTS, 2 REB, 0 AST
+     2-2 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 3.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 29 points.
+* JackNFo (Liquid Underground) (Liquid Underground) dominated the boards with 17 rebounds.
+* IlDosh (On Site) (On Site) dished out a game-high 6 assists.
+
+* Liquid Underground shot 52.4% from the field
+  and 43.5% from three-point range.
+  Efficient shooting night for Liquid Underground.
+
+* On Site shot 54.5% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for On Site.
+
+==================================================

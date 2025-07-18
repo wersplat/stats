@@ -1,0 +1,81 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Full Court Press vs Nothing Less
+Date: Friday, January 03, 2025 12:24 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Full Court Press          Nothing Less             
+---------------------------------------------------------------------------
+Field Goals:              24-59 (40.7%)             28-52 (53.8%)            
+3-Pointers:               17-38 (44.7%)             13-29 (44.8%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 40                        5                        
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  21                        75                       
+Steals:                   4                         15                       
+Blocks:                   1                         1                        
+Turnovers:                16                        4                        
+Fouls:                    2                         6                        
+Points:                   69                        70                       
+True Shooting %:          58.5%                     67.3%                    
+Assist/TO Ratio:          1.3                       18.8                     
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Full Court Press Players:
+  amber0417 (Full Court Press): 30 PTS, 6 REB, 2 AST
+     11-24 FG (45.8%), 8-14 3FG (57.1%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+  WhoCapalot (Full Court Press): 23 PTS, 0 REB, 2 AST
+     8-16 FG (50.0%), 7-15 3FG (46.7%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO
+  Stormrooprfinn (Full Court Press): 9 PTS, 12 REB, 3 AST
+     2-8 FG (25.0%), 2-7 3FG (28.6%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 2 TO
+  DiamondFlame (Full Court Press): 4 PTS, 22 REB, 4 AST
+     2-8 FG (25.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 6 TO, 1.0 pf
+  SugarShane (Full Court Press): 3 PTS, 0 REB, 10 AST
+     1-3 FG (33.3%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 5 TO, 1.0 pf
+
+Nothing Less Players:
+  NTX redrum (Nothing Less): 26 PTS, 0 REB, 1 AST
+     10-14 FG (71.4%), 5-8 3FG (62.5%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 2 TO
+  WhyBeVinceK (Nothing Less): 22 PTS, 0 REB, 5 AST
+     9-11 FG (81.8%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 2.0 pf
+  Tm_Richhomie (Nothing Less): 16 PTS, 0 REB, 3 AST
+     6-17 FG (35.3%), 4-10 3FG (40.0%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 4.0 pf
+  FrankWaters (Nothing Less): 6 PTS, 5 REB, 66 AST
+     3-10 FG (30.0%), 0-6 3FG (0.0%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 0 TO
+
+-------------------- GAME NOTES --------------------
+
+* amber0417 (Full Court Press) (Full Court Press) led all scorers with 30 points.
+* DiamondFlame (Full Court Press) (Full Court Press) dominated the boards with 22 rebounds.
+* FrankWaters (Nothing Less) (Nothing Less) dished out a game-high 66 assists.
+
+* Full Court Press shot 40.7% from the field
+  and 44.7% from three-point range.
+  Ball security was an issue with 16 turnovers.
+
+* Nothing Less shot 53.8% from the field
+  and 44.8% from three-point range.
+  Efficient shooting night for Nothing Less.
+  Excellent ball protection with just 4 turnovers.
+
+==================================================

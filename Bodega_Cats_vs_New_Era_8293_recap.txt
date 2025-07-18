@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Bodega Cats vs New Era
+Date: Sunday, February 23, 2025 10:33 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Bodega Cats               New Era                  
+---------------------------------------------------------------------------
+Field Goals:              26-37 (70.3%)             18-40 (45.0%)            
+3-Pointers:               7-14 (50.0%)              12-28 (42.9%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 17                        14                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  22                        10                       
+Steals:                   6                         8                        
+Blocks:                   1                         0                        
+Turnovers:                8                         9                        
+Fouls:                    2                         8                        
+Points:                   63                        48                       
+True Shooting %:          85.1%                     60.0%                    
+Assist/TO Ratio:          2.8                       1.1                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Bodega Cats Players:
+  o_ihoop5_o (Bodega Cats): 18 PTS, 0 REB, 12 AST
+     7-9 FG (77.8%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     6 STL, 0 BLK, 1 TO, 2.0 pf
+  Jay Nice (Bodega Cats): 16 PTS, 1 REB, 1 AST
+     7-8 FG (87.5%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  GK1LLER77 (Bodega Cats): 13 PTS, 0 REB, 4 AST
+     5-12 FG (41.7%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+  Scottieontv (Bodega Cats): 8 PTS, 0 REB, 1 AST
+     4-5 FG (80.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  T2E xLOUx X6 (Bodega Cats): 8 PTS, 16 REB, 4 AST
+     3-3 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 2 TO
+
+New Era Players:
+  Drippy SZN (New Era): 25 PTS, 1 REB, 7 AST
+     9-18 FG (50.0%), 7-15 3FG (46.7%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 6 TO, 1.0 pf
+  TF-ToFrio (New Era): 6 PTS, 0 REB, 1 AST
+     2-6 FG (33.3%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  Marco HZ (New Era): 6 PTS, 1 REB, 0 AST
+     2-4 FG (50.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 2.0 pf
+  Jaay (New Era): 6 PTS, 12 REB, 0 AST
+     3-7 FG (42.9%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  xBiberon (New Era): 5 PTS, 0 REB, 2 AST
+     2-5 FG (40.0%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO, 3.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Drippy SZN (New Era) (New Era) led all scorers with 25 points.
+* T2E xLOUx X6 (Bodega Cats) (Bodega Cats) dominated the boards with 16 rebounds.
+* o_ihoop5_o (Bodega Cats) (Bodega Cats) dished out a game-high 12 assists.
+
+* Bodega Cats shot 70.3% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for Bodega Cats.
+
+* New Era shot 45.0% from the field
+  and 42.9% from three-point range.
+
+==================================================

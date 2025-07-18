@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Generation of Miracles vs Lights Out
+Date: Wednesday, March 26, 2025 02:00 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Generation of Miracles    Lights Out               
+---------------------------------------------------------------------------
+Field Goals:              22-46 (47.8%)             23-44 (52.3%)            
+3-Pointers:               12-25 (48.0%)             13-28 (46.4%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 21                        22                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  15                        14                       
+Steals:                   2                         2                        
+Blocks:                   0                         0                        
+Turnovers:                7                         7                        
+Fouls:                    6                         6                        
+Points:                   58                        64                       
+True Shooting %:          63.0%                     72.7%                    
+Assist/TO Ratio:          2.1                       2.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Generation of Miracles Players:
+  Player 11475 (Generation of Miracles): 23 PTS, 1 REB, 6 AST
+     9-19 FG (47.4%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  AdolfHitner (Generation of Miracles): 20 PTS, 3 REB, 5 AST
+     7-14 FG (50.0%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  LeSav James (Generation of Miracles): 9 PTS, 0 REB, 1 AST
+     3-6 FG (50.0%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 2.0 pf
+  xoJask (Generation of Miracles): 4 PTS, 16 REB, 3 AST
+     2-3 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  He Move Cut (Generation of Miracles): 2 PTS, 1 REB, 0 AST
+     1-4 FG (25.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+
+Lights Out Players:
+  ReallyTM (Lights Out): 21 PTS, 0 REB, 5 AST
+     6-10 FG (60.0%), 4-6 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  itZGmac (Lights Out): 17 PTS, 1 REB, 3 AST
+     6-15 FG (40.0%), 5-13 3FG (38.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  HitFlu (Lights Out): 13 PTS, 1 REB, 0 AST
+     6-10 FG (60.0%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  FatNiinja_ (Lights Out): 9 PTS, 6 REB, 1 AST
+     3-5 FG (60.0%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  xFatboyTrae (Lights Out): 4 PTS, 14 REB, 5 AST
+     2-4 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Player 11475 (Generation of Miracles) (Generation of Miracles) led all scorers with 23 points.
+* xoJask (Generation of Miracles) (Generation of Miracles) dominated the boards with 16 rebounds.
+* Player 11475 (Generation of Miracles) (Generation of Miracles) dished out a game-high 6 assists.
+
+* Generation of Miracles shot 47.8% from the field
+  and 48.0% from three-point range.
+
+* Lights Out shot 52.3% from the field
+  and 46.4% from three-point range.
+  Efficient shooting night for Lights Out.
+
+==================================================

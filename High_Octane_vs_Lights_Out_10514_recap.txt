@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+High Octane vs Lights Out
+Date: Thursday, March 20, 2025 01:03 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         High Octane               Lights Out               
+---------------------------------------------------------------------------
+Field Goals:              22-64 (34.4%)             27-45 (60.0%)            
+3-Pointers:               12-26 (46.2%)             13-26 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 16                        20                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  14                        20                       
+Steals:                   7                         5                        
+Blocks:                   1                         0                        
+Turnovers:                7                         7                        
+Fouls:                    13                        10                       
+Points:                   66                        70                       
+True Shooting %:          51.6%                     77.8%                    
+Assist/TO Ratio:          2.0                       2.9                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+High Octane Players:
+  iMxWORK (High Octane): 29 PTS, 0 REB, 3 AST
+     11-19 FG (57.9%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 2.0 pf
+  II_Quaa_II (High Octane): 15 PTS, 1 REB, 0 AST
+     5-10 FG (50.0%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  oTHiLL (High Octane): 12 PTS, 0 REB, 5 AST
+     4-7 FG (57.1%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 3 TO, 1.0 pf
+  TruDe3mon (High Octane): 6 PTS, 13 REB, 4 AST
+     2-2 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 4.0 pf
+  IIlyWooll (High Octane): 4 PTS, 2 REB, 2 AST
+     0-26 FG (0.0%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 4.0 pf
+
+Lights Out Players:
+  itZGmac (Lights Out): 24 PTS, 0 REB, 4 AST
+     8-17 FG (47.1%), 8-16 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 2.0 pf
+  HitFlu (Lights Out): 14 PTS, 0 REB, 2 AST
+     6-11 FG (54.5%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 6.0 pf
+  xFatboyTrae (Lights Out): 14 PTS, 17 REB, 3 AST
+     7-8 FG (87.5%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  ReallyTM (Lights Out): 12 PTS, 0 REB, 9 AST
+     4-7 FG (57.1%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 4 TO
+  FatNiinja_ (Lights Out): 6 PTS, 3 REB, 2 AST
+     2-2 FG (100.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* iMxWORK (High Octane) (High Octane) led all scorers with 29 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 17 rebounds.
+* ReallyTM (Lights Out) (Lights Out) dished out a game-high 9 assists.
+
+* High Octane shot 34.4% from the field
+  and 46.2% from three-point range.
+  High Octane struggled with their shooting.
+
+* Lights Out shot 60.0% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for Lights Out.
+
+==================================================

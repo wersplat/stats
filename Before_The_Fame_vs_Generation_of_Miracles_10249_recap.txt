@@ -1,0 +1,85 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Before The Fame vs Generation of Miracles
+Date: Monday, March 17, 2025 01:20 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Before The Fame           Generation of Miracles   
+---------------------------------------------------------------------------
+Field Goals:              26-47 (55.3%)             20-40 (50.0%)            
+3-Pointers:               10-23 (43.5%)             8-21 (38.1%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 25                        13                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  20                        15                       
+Steals:                   5                         4                        
+Blocks:                   1                         1                        
+Turnovers:                5                         5                        
+Fouls:                    10                        6                        
+Points:                   63                        50                       
+True Shooting %:          67.0%                     62.5%                    
+Assist/TO Ratio:          4.0                       3.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Before The Fame Players:
+  Orbit Splash (Before The Fame): 22 PTS, 1 REB, 1 AST
+     9-10 FG (90.0%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  TheOnlyStun (Before The Fame): 18 PTS, 0 REB, 7 AST
+     6-17 FG (35.3%), 6-15 3FG (40.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 2.0 pf
+  Kompetxtive (Before The Fame): 11 PTS, 13 REB, 7 AST
+     5-7 FG (71.4%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  JayoTooCold (Before The Fame): 6 PTS, 6 REB, 3 AST
+     3-6 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 5.0 pf
+  xkingsworld (Before The Fame): 6 PTS, 5 REB, 2 AST
+     3-7 FG (42.9%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 1 TO, 2.0 pf
+
+Generation of Miracles Players:
+  BenSkywalker (Generation of Miracles): 15 PTS, 1 REB, 10 AST
+     5-14 FG (35.7%), 3-11 3FG (27.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  BlumbergBoyz (Generation of Miracles): 12 PTS, 9 REB, 1 AST
+     6-9 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  papercutprone (Generation of Miracles): 10 PTS, 2 REB, 0 AST
+     4-5 FG (80.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  PlsDontSlip (Generation of Miracles): 10 PTS, 0 REB, 2 AST
+     4-6 FG (66.7%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 2 TO
+  supa shyne (Generation of Miracles): 3 PTS, 1 REB, 2 AST
+     1-6 FG (16.7%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Orbit Splash (Before The Fame) (Before The Fame) led all scorers with 22 points.
+* Kompetxtive (Before The Fame) (Before The Fame) dominated the boards with 13 rebounds.
+* BenSkywalker (Generation of Miracles) (Generation of Miracles) dished out a game-high 10 assists.
+
+* Before The Fame shot 55.3% from the field
+  and 43.5% from three-point range.
+  Efficient shooting night for Before The Fame.
+  Excellent ball protection with just 5 turnovers.
+
+* Generation of Miracles shot 50.0% from the field
+  and 38.1% from three-point range.
+  Efficient shooting night for Generation of Miracles.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

@@ -1,0 +1,74 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Liquid Pro Am vs TTO
+Date: Friday, January 10, 2025 12:56 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Liquid Pro Am             The Takeover             
+---------------------------------------------------------------------------
+Field Goals:              12-20 (60.0%)             27-51 (52.9%)            
+3-Pointers:               8-15 (53.3%)              18-36 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 5                         16                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  19                        17                       
+Steals:                   4                         9                        
+Blocks:                   0                         2                        
+Turnovers:                7                         9                        
+Fouls:                    4                         11                       
+Points:                   32                        73                       
+True Shooting %:          80.0%                     71.6%                    
+Assist/TO Ratio:          2.7                       1.9                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Liquid Pro Am Players:
+  EffieMorales (Liquid Pro Am): 20 PTS, 5 REB, 0 AST
+     8-11 FG (72.7%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  antoinelove (Liquid Pro Am): 12 PTS, 0 REB, 19 AST
+     4-9 FG (44.4%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 6 TO, 3.0 pf
+
+The Takeover Players:
+  Keylofading (The Takeover): 34 PTS, 1 REB, 6 AST
+     12-22 FG (54.5%), 10-18 3FG (55.6%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 5 TO
+  NovaAssazzin (The Takeover): 24 PTS, 0 REB, 1 AST
+     9-16 FG (56.2%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  MrNikeCash (The Takeover): 7 PTS, 8 REB, 5 AST
+     3-5 FG (60.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 1.0 pf
+  Noo spacee (The Takeover): 6 PTS, 6 REB, 4 AST
+     2-6 FG (33.3%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     4 STL, 2 BLK, 0 TO, 5.0 pf
+  BigGloPrince (The Takeover): 2 PTS, 1 REB, 1 AST
+     1-2 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 4.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Keylofading (The Takeover) (The Takeover) led all scorers with 34 points.
+* MrNikeCash (The Takeover) (The Takeover) dominated the boards with 8 rebounds.
+* antoinelove (Liquid Pro Am) (Liquid Pro Am) dished out a game-high 19 assists.
+
+* Liquid Pro Am shot 60.0% from the field
+  and 53.3% from three-point range.
+  Efficient shooting night for Liquid Pro Am.
+
+* The Takeover shot 52.9% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for The Takeover.
+
+==================================================

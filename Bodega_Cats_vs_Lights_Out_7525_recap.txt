@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Bodega Cats vs Lights Out
+Date: Saturday, February 01, 2025 12:29 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Bodega Cats               Lights Out               
+---------------------------------------------------------------------------
+Field Goals:              21-45 (46.7%)             24-52 (46.2%)            
+3-Pointers:               14-32 (43.8%)             12-29 (41.4%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 17                        31                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  17                        13                       
+Steals:                   3                         4                        
+Blocks:                   0                         2                        
+Turnovers:                4                         5                        
+Fouls:                    8                         5                        
+Points:                   59                        62                       
+True Shooting %:          65.6%                     59.6%                    
+Assist/TO Ratio:          4.2                       2.6                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Bodega Cats Players:
+  GK1LLER77 (Bodega Cats): 25 PTS, 0 REB, 2 AST
+     9-17 FG (52.9%), 6-14 3FG (42.9%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 4.0 pf
+  Goldenboy YP (Bodega Cats): 12 PTS, 0 REB, 9 AST
+     4-9 FG (44.4%), 2-6 3FG (33.3%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 3.0 pf
+  Rah (Bodega Cats): 12 PTS, 0 REB, 4 AST
+     4-8 FG (50.0%), 4-6 3FG (66.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  OckTheShooter (Bodega Cats): 8 PTS, 0 REB, 2 AST
+     3-8 FG (37.5%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  Scottieontv (Bodega Cats): 2 PTS, 17 REB, 0 AST
+     1-3 FG (33.3%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+
+Lights Out Players:
+  itZGmac (Lights Out): 36 PTS, 0 REB, 3 AST
+     12-21 FG (57.1%), 10-16 3FG (62.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  ReallyTM (Lights Out): 13 PTS, 0 REB, 3 AST
+     6-15 FG (40.0%), 1-6 3FG (16.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  xFatboyTrae (Lights Out): 8 PTS, 24 REB, 5 AST
+     4-7 FG (57.1%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 2 TO, 1.0 pf
+  HitFlu (Lights Out): 5 PTS, 0 REB, 1 AST
+     2-6 FG (33.3%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 1.0 pf
+  FatNiinja_ (Lights Out): 0 PTS, 7 REB, 1 AST
+     0-3 FG (0.0%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* itZGmac (Lights Out) (Lights Out) led all scorers with 36 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 24 rebounds.
+* Goldenboy YP (Bodega Cats) (Bodega Cats) dished out a game-high 9 assists.
+
+* Bodega Cats shot 46.7% from the field
+  and 43.8% from three-point range.
+  Excellent ball protection with just 4 turnovers.
+
+* Lights Out shot 46.2% from the field
+  and 41.4% from three-point range.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

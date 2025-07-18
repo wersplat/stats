@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Lights Out vs Capitol City Cats
+Date: Thursday, March 27, 2025 12:27 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Lights Out                Capitol City Cats        
+---------------------------------------------------------------------------
+Field Goals:              29-53 (54.7%)             22-46 (47.8%)            
+3-Pointers:               14-30 (46.7%)             9-18 (50.0%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 30                        16                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  21                        16                       
+Steals:                   8                         7                        
+Blocks:                   1                         0                        
+Turnovers:                8                         10                       
+Fouls:                    6                         7                        
+Points:                   79                        53                       
+True Shooting %:          74.5%                     57.6%                    
+Assist/TO Ratio:          2.6                       1.6                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Lights Out Players:
+  itZGmac (Lights Out): 36 PTS, 0 REB, 3 AST
+     11-25 FG (44.0%), 9-20 3FG (45.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 3 TO, 1.0 pf
+  HitFlu (Lights Out): 16 PTS, 1 REB, 4 AST
+     6-9 FG (66.7%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  ReallyTM (Lights Out): 14 PTS, 0 REB, 8 AST
+     6-10 FG (60.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  xFatboyTrae (Lights Out): 8 PTS, 23 REB, 4 AST
+     4-5 FG (80.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     4 STL, 1 BLK, 2 TO, 2.0 pf
+  Player 9900 (Lights Out): 5 PTS, 6 REB, 2 AST
+     2-4 FG (50.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+
+Capitol City Cats Players:
+  aWhyHeSoNice (Capitol City Cats): 13 PTS, 2 REB, 3 AST
+     5-17 FG (29.4%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 6 TO, 2.0 pf
+  xHoodyTOONx (Capitol City Cats): 13 PTS, 0 REB, 4 AST
+     5-8 FG (62.5%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  TANdurANT (Capitol City Cats): 13 PTS, 4 REB, 1 AST
+     5-9 FG (55.6%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 2.0 pf
+  Player 11472 (Capitol City Cats): 8 PTS, 1 REB, 4 AST
+     4-8 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  JackNFo (Capitol City Cats): 6 PTS, 9 REB, 4 AST
+     3-4 FG (75.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+
+-------------------- GAME NOTES --------------------
+
+* itZGmac (Lights Out) (Lights Out) led all scorers with 36 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 23 rebounds.
+* ReallyTM (Lights Out) (Lights Out) dished out a game-high 8 assists.
+
+* Lights Out shot 54.7% from the field
+  and 46.7% from three-point range.
+  Efficient shooting night for Lights Out.
+
+* Capitol City Cats shot 47.8% from the field
+  and 50.0% from three-point range.
+
+==================================================

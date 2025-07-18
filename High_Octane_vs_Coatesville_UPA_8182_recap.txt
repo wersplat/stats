@@ -1,0 +1,81 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+High Octane vs Coatesville UPA
+Date: Sunday, February 23, 2025 10:22 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         High Octane               Coatesville UPA          
+---------------------------------------------------------------------------
+Field Goals:              23-43 (53.5%)             35-50 (70.0%)            
+3-Pointers:               13-28 (46.4%)             12-24 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 7                         22                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  11                        27                       
+Steals:                   3                         5                        
+Blocks:                   0                         2                        
+Turnovers:                6                         4                        
+Fouls:                    4                         8                        
+Points:                   60                        85                       
+True Shooting %:          69.8%                     85.0%                    
+Assist/TO Ratio:          1.8                       6.8                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+High Octane Players:
+  iMxWORK (High Octane): 22 PTS, 0 REB, 7 AST
+     9-17 FG (52.9%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  LLRXNDO (High Octane): 14 PTS, 0 REB, 2 AST
+     5-11 FG (45.5%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  IIlyWooll (High Octane): 13 PTS, 0 REB, 0 AST
+     5-9 FG (55.6%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  TruDe3mon (High Octane): 11 PTS, 7 REB, 2 AST
+     4-6 FG (66.7%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 2.0 pf
+
+Coatesville UPA Players:
+  Envyzayyy (Coatesville UPA): 32 PTS, 0 REB, 3 AST
+     12-14 FG (85.7%), 8-10 3FG (80.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 1.0 pf
+  Seese (Coatesville UPA): 15 PTS, 0 REB, 15 AST
+     5-12 FG (41.7%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  ShaqLeonard (Coatesville UPA): 14 PTS, 0 REB, 1 AST
+     7-9 FG (77.8%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 5.0 pf
+  Rangeiana (Coatesville UPA): 13 PTS, 10 REB, 4 AST
+     6-6 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO, 1.0 pf
+  VerifiedEman (Coatesville UPA): 11 PTS, 12 REB, 4 AST
+     5-9 FG (55.6%), 1-5 3FG (20.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 2 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Envyzayyy (Coatesville UPA) (Coatesville UPA) led all scorers with 32 points.
+* VerifiedEman (Coatesville UPA) (Coatesville UPA) dominated the boards with 12 rebounds.
+* Seese (Coatesville UPA) (Coatesville UPA) dished out a game-high 15 assists.
+
+* High Octane shot 53.5% from the field
+  and 46.4% from three-point range.
+  Efficient shooting night for High Octane.
+
+* Coatesville UPA shot 70.0% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for Coatesville UPA.
+  Excellent ball protection with just 4 turnovers.
+
+==================================================

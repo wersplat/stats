@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Negative Zero vs Liquid Underground
+Date: Wednesday, March 05, 2025 10:04 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Negative Zero             Liquid Underground       
+---------------------------------------------------------------------------
+Field Goals:              24-42 (57.1%)             24-46 (52.2%)            
+3-Pointers:               11-25 (44.0%)             11-29 (37.9%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 20                        20                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  17                        18                       
+Steals:                   5                         7                        
+Blocks:                   1                         1                        
+Turnovers:                8                         7                        
+Fouls:                    10                        7                        
+Points:                   63                        60                       
+True Shooting %:          75.0%                     65.2%                    
+Assist/TO Ratio:          2.1                       2.6                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Negative Zero Players:
+  BlameFendi (Negative Zero): 26 PTS, 0 REB, 6 AST
+     10-17 FG (58.8%), 5-11 3FG (45.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  TTV 4KJayW (Negative Zero): 19 PTS, 0 REB, 1 AST
+     7-11 FG (63.6%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 2.0 pf
+  BlameTokyo (Negative Zero): 11 PTS, 14 REB, 7 AST
+     4-6 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 3.0 pf
+  BlameChan (Negative Zero): 7 PTS, 2 REB, 3 AST
+     3-7 FG (42.9%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 2 TO, 2.0 pf
+  CatchingBlessing (Negative Zero): 0 PTS, 4 REB, 0 AST
+     0-1 FG (0.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 3.0 pf
+
+Liquid Underground Players:
+  MindofTrey (Liquid Underground): 16 PTS, 0 REB, 4 AST
+     5-12 FG (41.7%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  Mxntay (Liquid Underground): 14 PTS, 12 REB, 3 AST
+     7-8 FG (87.5%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 2.0 pf
+  UltimateKrabz (Liquid Underground): 12 PTS, 1 REB, 11 AST
+     5-12 FG (41.7%), 2-9 3FG (22.2%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO
+  Niyner (Liquid Underground): 9 PTS, 1 REB, 0 AST
+     4-9 FG (44.4%), 1-5 3FG (20.0%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 0 TO
+  ThyReelManny (Liquid Underground): 9 PTS, 6 REB, 0 AST
+     3-5 FG (60.0%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 5.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* BlameFendi (Negative Zero) (Negative Zero) led all scorers with 26 points.
+* BlameTokyo (Negative Zero) (Negative Zero) dominated the boards with 14 rebounds.
+* UltimateKrabz (Liquid Underground) (Liquid Underground) dished out a game-high 11 assists.
+
+* Negative Zero shot 57.1% from the field
+  and 44.0% from three-point range.
+  Efficient shooting night for Negative Zero.
+
+* Liquid Underground shot 52.2% from the field
+  and 37.9% from three-point range.
+  Efficient shooting night for Liquid Underground.
+
+==================================================

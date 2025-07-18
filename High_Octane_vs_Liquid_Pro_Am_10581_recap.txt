@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+High Octane vs Liquid Pro Am
+Date: Friday, March 21, 2025 10:33 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         High Octane               Liquid Pro Am            
+---------------------------------------------------------------------------
+Field Goals:              23-44 (52.3%)             25-51 (49.0%)            
+3-Pointers:               12-27 (44.4%)             9-28 (32.1%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 22                        22                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  18                        17                       
+Steals:                   4                         6                        
+Blocks:                   2                         1                        
+Turnovers:                9                         5                        
+Fouls:                    10                        8                        
+Points:                   59                        60                       
+True Shooting %:          67.0%                     58.8%                    
+Assist/TO Ratio:          2.0                       3.4                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+High Octane Players:
+  Player 11558 (High Octane): 18 PTS, 1 REB, 2 AST
+     7-13 FG (53.8%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 5.0 pf
+  DaFamousGoat (High Octane): 14 PTS, 6 REB, 1 AST
+     5-7 FG (71.4%), 4-6 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 2 BLK, 1 TO, 2.0 pf
+  II_Quaa_II (High Octane): 13 PTS, 1 REB, 6 AST
+     5-10 FG (50.0%), 2-6 3FG (33.3%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 1.0 pf
+  LLRXNDO (High Octane): 10 PTS, 2 REB, 6 AST
+     4-10 FG (40.0%), 2-8 3FG (25.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO, 1.0 pf
+  TruDe3mon (High Octane): 4 PTS, 12 REB, 3 AST
+     2-4 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+
+Liquid Pro Am Players:
+  Zayy (Liquid Pro Am): 22 PTS, 2 REB, 5 AST
+     8-14 FG (57.1%), 6-12 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  antoinelove (Liquid Pro Am): 14 PTS, 1 REB, 4 AST
+     5-14 FG (35.7%), 3-10 3FG (30.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO
+  Player 11556 (Liquid Pro Am): 14 PTS, 0 REB, 0 AST
+     7-9 FG (77.8%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 4.0 pf
+  Bamdagoat (Liquid Pro Am): 8 PTS, 16 REB, 7 AST
+     4-8 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  EffieMorales (Liquid Pro Am): 2 PTS, 3 REB, 1 AST
+     1-6 FG (16.7%), 0-4 3FG (0.0%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 0 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Zayy (Liquid Pro Am) (Liquid Pro Am) led all scorers with 22 points.
+* Bamdagoat (Liquid Pro Am) (Liquid Pro Am) dominated the boards with 16 rebounds.
+* Bamdagoat (Liquid Pro Am) (Liquid Pro Am) dished out a game-high 7 assists.
+
+* High Octane shot 52.3% from the field
+  and 44.4% from three-point range.
+  Efficient shooting night for High Octane.
+
+* Liquid Pro Am shot 49.0% from the field
+  and 32.1% from three-point range.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Lights Out vs On Site
+Date: Wednesday, January 01, 2025 09:17 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Lights Out                On Site                  
+---------------------------------------------------------------------------
+Field Goals:              22-44 (50.0%)             22-39 (56.4%)            
+3-Pointers:               11-23 (47.8%)             18-25 (72.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 18                        18                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  15                        16                       
+Steals:                   8                         5                        
+Blocks:                   2                         2                        
+Turnovers:                6                         8                        
+Fouls:                    8                         7                        
+Points:                   57                        62                       
+True Shooting %:          64.8%                     79.5%                    
+Assist/TO Ratio:          2.5                       2.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Lights Out Players:
+  Yepeville (Lights Out): 28 PTS, 0 REB, 3 AST
+     11-18 FG (61.1%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 1.0 pf
+  HitFlu (Lights Out): 17 PTS, 1 REB, 0 AST
+     6-10 FG (60.0%), 5-7 3FG (71.4%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 0 TO, 2.0 pf
+  ReallyTM (Lights Out): 8 PTS, 2 REB, 7 AST
+     3-10 FG (30.0%), 2-7 3FG (28.6%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+  xFatboyTrae (Lights Out): 4 PTS, 11 REB, 5 AST
+     2-4 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 2 TO, 2.0 pf
+  FatNiinja_ (Lights Out): 0 PTS, 4 REB, 0 AST
+     0-2 FG (0.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 0 TO, 2.0 pf
+
+On Site Players:
+  IlDosh (On Site): 30 PTS, 0 REB, 1 AST
+     10-18 FG (55.6%), 13-14 3FG (92.9%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  Chuba (On Site): 19 PTS, 12 REB, 2 AST
+     7-8 FG (87.5%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 3.0 pf
+  Amoon (On Site): 8 PTS, 6 REB, 2 AST
+     3-8 FG (37.5%), 2-6 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 2 BLK, 1 TO, 1.0 pf
+  llJMAR (On Site): 3 PTS, 0 REB, 1 AST
+     1-4 FG (25.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  P7Precise (On Site): 2 PTS, 0 REB, 10 AST
+     1-1 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 30 points.
+* Chuba (On Site) (On Site) dominated the boards with 12 rebounds.
+* P7Precise (On Site) (On Site) dished out a game-high 10 assists.
+
+* Lights Out shot 50.0% from the field
+  and 47.8% from three-point range.
+  Efficient shooting night for Lights Out.
+
+* On Site shot 56.4% from the field
+  and 72.0% from three-point range.
+  Efficient shooting night for On Site.
+
+==================================================

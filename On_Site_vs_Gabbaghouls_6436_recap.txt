@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+On Site vs Gabbaghouls
+Date: Thursday, January 02, 2025 12:52 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         On Site                   GabbaGhouls              
+---------------------------------------------------------------------------
+Field Goals:              34-59 (57.6%)             22-48 (45.8%)            
+3-Pointers:               24-43 (55.8%)             12-29 (41.4%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 21                        28                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  26                        18                       
+Steals:                   17                        2                        
+Blocks:                   1                         0                        
+Turnovers:                4                         19                       
+Fouls:                    6                         7                        
+Points:                   94                        60                       
+True Shooting %:          79.7%                     62.5%                    
+Assist/TO Ratio:          6.5                       0.9                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+On Site Players:
+  IlDosh (On Site): 30 PTS, 0 REB, 3 AST
+     11-21 FG (52.4%), 8-14 3FG (57.1%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO
+  llJMAR (On Site): 20 PTS, 1 REB, 4 AST
+     8-10 FG (80.0%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 3.0 pf
+  P7Precise (On Site): 17 PTS, 0 REB, 10 AST
+     6-12 FG (50.0%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  Amoon (On Site): 17 PTS, 9 REB, 5 AST
+     6-8 FG (75.0%), 5-7 3FG (71.4%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 0 TO, 1.0 pf
+  Chuba (On Site): 10 PTS, 11 REB, 4 AST
+     3-8 FG (37.5%), 2-7 3FG (28.6%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 2 TO, 1.0 pf
+
+GabbaGhouls Players:
+  WebcamBoy3in234 (GabbaGhouls): 16 PTS, 0 REB, 7 AST
+     5-12 FG (41.7%), 2-8 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 2.0 pf
+  LouBoogieYK (GabbaGhouls): 16 PTS, 6 REB, 0 AST
+     6-14 FG (42.9%), 4-10 3FG (40.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  Tanhand (GabbaGhouls): 14 PTS, 1 REB, 0 AST
+     5-13 FG (38.5%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  ChubbyPuff (GabbaGhouls): 8 PTS, 21 REB, 7 AST
+     3-5 FG (60.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 8 TO, 1.0 pf
+  Theansvver (GabbaGhouls): 6 PTS, 0 REB, 4 AST
+     3-4 FG (75.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 7 TO
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 30 points.
+* ChubbyPuff (GabbaGhouls) (GabbaGhouls) dominated the boards with 21 rebounds.
+* P7Precise (On Site) (On Site) dished out a game-high 10 assists.
+
+* On Site shot 57.6% from the field
+  and 55.8% from three-point range.
+  Efficient shooting night for On Site.
+  Excellent ball protection with just 4 turnovers.
+
+* GabbaGhouls shot 45.8% from the field
+  and 41.4% from three-point range.
+  Ball security was an issue with 19 turnovers.
+
+==================================================

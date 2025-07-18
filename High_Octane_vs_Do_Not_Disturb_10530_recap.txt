@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+High Octane vs Do Not Disturb
+Date: Friday, March 21, 2025 01:48 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         High Octane               Do Not Disturb           
+---------------------------------------------------------------------------
+Field Goals:              19-44 (43.2%)             28-50 (56.0%)            
+3-Pointers:               6-18 (33.3%)              13-26 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 21                        23                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  10                        19                       
+Steals:                   4                         9                        
+Blocks:                   0                         4                        
+Turnovers:                10                        4                        
+Fouls:                    6                         10                       
+Points:                   50                        72                       
+True Shooting %:          56.8%                     72.0%                    
+Assist/TO Ratio:          1.0                       4.8                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+High Octane Players:
+  iMxWORK (High Octane): 27 PTS, 0 REB, 3 AST
+     10-21 FG (47.6%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 4 TO
+  II_Quaa_II (High Octane): 9 PTS, 0 REB, 4 AST
+     3-11 FG (27.3%), 1-6 3FG (16.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+  TruDe3mon (High Octane): 9 PTS, 15 REB, 1 AST
+     4-5 FG (80.0%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 1.0 pf
+  IIlyWooll (High Octane): 5 PTS, 2 REB, 0 AST
+     2-5 FG (40.0%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 4.0 pf
+  DaFamousGoat (High Octane): 0 PTS, 4 REB, 2 AST
+     0-2 FG (0.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+
+Do Not Disturb Players:
+  C4_Kamo (Do Not Disturb): 19 PTS, 2 REB, 6 AST
+     6-10 FG (60.0%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 2.0 pf
+  Rythums (Do Not Disturb): 16 PTS, 0 REB, 6 AST
+     6-15 FG (40.0%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     5 STL, 1 BLK, 1 TO, 3.0 pf
+  C4 Vett (Do Not Disturb): 13 PTS, 8 REB, 1 AST
+     5-9 FG (55.6%), 3-6 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  BTA_Dozier (Do Not Disturb): 12 PTS, 1 REB, 1 AST
+     5-8 FG (62.5%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 0 TO, 3.0 pf
+  Fast_Slips (Do Not Disturb): 12 PTS, 12 REB, 5 AST
+     6-8 FG (75.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* iMxWORK (High Octane) (High Octane) led all scorers with 27 points.
+* TruDe3mon (High Octane) (High Octane) dominated the boards with 15 rebounds.
+* C4_Kamo (Do Not Disturb) (Do Not Disturb) dished out a game-high 6 assists.
+
+* High Octane shot 43.2% from the field
+  and 33.3% from three-point range.
+
+* Do Not Disturb shot 56.0% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for Do Not Disturb.
+  Excellent ball protection with just 4 turnovers.
+
+==================================================

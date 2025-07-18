@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+SWVA Paradise vs Coatesville UPA
+Date: Monday, February 24, 2025 02:10 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         SWVA Paradise             Coatesville UPA          
+---------------------------------------------------------------------------
+Field Goals:              24-41 (58.5%)             26-46 (56.5%)            
+3-Pointers:               11-18 (61.1%)             11-24 (45.8%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 15                        18                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  17                        17                       
+Steals:                   4                         6                        
+Blocks:                   0                         2                        
+Turnovers:                6                         4                        
+Fouls:                    3                         5                        
+Points:                   63                        65                       
+True Shooting %:          76.8%                     70.7%                    
+Assist/TO Ratio:          2.8                       4.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+SWVA Paradise Players:
+  FenSins (SWVA Paradise): 17 PTS, 0 REB, 7 AST
+     6-9 FG (66.7%), 5-6 3FG (83.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  Reedrix (SWVA Paradise): 17 PTS, 14 REB, 7 AST
+     8-8 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  l CheddR l (SWVA Paradise): 16 PTS, 0 REB, 2 AST
+     5-12 FG (41.7%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO, 1.0 pf
+  MajixSantana (SWVA Paradise): 13 PTS, 0 REB, 0 AST
+     5-9 FG (55.6%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  RR luv (SWVA Paradise): 0 PTS, 1 REB, 1 AST
+     0-3 FG (0.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO
+
+Coatesville UPA Players:
+  Envyzayyy (Coatesville UPA): 26 PTS, 0 REB, 3 AST
+     10-16 FG (62.5%), 6-12 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  VerifiedEman (Coatesville UPA): 14 PTS, 5 REB, 0 AST
+     6-7 FG (85.7%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 1.0 pf
+  Seese (Coatesville UPA): 11 PTS, 1 REB, 9 AST
+     4-11 FG (36.4%), 3-6 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 1.0 pf
+  ShaqLeonard (Coatesville UPA): 8 PTS, 12 REB, 3 AST
+     4-6 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO
+  LottoDaDon (Coatesville UPA): 6 PTS, 0 REB, 2 AST
+     2-6 FG (33.3%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 3.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Envyzayyy (Coatesville UPA) (Coatesville UPA) led all scorers with 26 points.
+* Reedrix (SWVA Paradise) (SWVA Paradise) dominated the boards with 14 rebounds.
+* Seese (Coatesville UPA) (Coatesville UPA) dished out a game-high 9 assists.
+
+* SWVA Paradise shot 58.5% from the field
+  and 61.1% from three-point range.
+  Efficient shooting night for SWVA Paradise.
+
+* Coatesville UPA shot 56.5% from the field
+  and 45.8% from three-point range.
+  Efficient shooting night for Coatesville UPA.
+  Excellent ball protection with just 4 turnovers.
+
+==================================================

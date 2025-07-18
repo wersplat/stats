@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Liquid Underground vs Above Gravity
+Date: Saturday, March 22, 2025 04:40 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Liquid Underground        Above Gravity            
+---------------------------------------------------------------------------
+Field Goals:              34-60 (56.7%)             27-47 (57.4%)            
+3-Pointers:               13-29 (44.8%)             9-20 (45.0%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 28                        17                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  26                        26                       
+Steals:                   8                         2                        
+Blocks:                   0                         2                        
+Turnovers:                2                         8                        
+Fouls:                    6                         7                        
+Points:                   87                        67                       
+True Shooting %:          72.5%                     71.3%                    
+Assist/TO Ratio:          13.0                      3.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Liquid Underground Players:
+  RUN N DUNK (Liquid Underground): 30 PTS, 17 REB, 2 AST
+     14-20 FG (70.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+  UltimateKrabz (Liquid Underground): 25 PTS, 1 REB, 11 AST
+     8-16 FG (50.0%), 5-13 3FG (38.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  xDoov (Liquid Underground): 14 PTS, 0 REB, 4 AST
+     5-9 FG (55.6%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  ThyReelManny (Liquid Underground): 13 PTS, 9 REB, 7 AST
+     5-12 FG (41.7%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 1 TO, 3.0 pf
+  Mav 39 Ace (Liquid Underground): 5 PTS, 1 REB, 2 AST
+     2-3 FG (66.7%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+
+Above Gravity Players:
+  SOGxRL2JAVE (Above Gravity): 24 PTS, 0 REB, 1 AST
+     9-12 FG (75.0%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 3.0 pf
+  BluHawk92 (Above Gravity): 18 PTS, 0 REB, 1 AST
+     7-11 FG (63.6%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  MoonSurffTTV (Above Gravity): 13 PTS, 8 REB, 1 AST
+     6-13 FG (46.2%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     0 STL, 2 BLK, 1 TO
+  AlwaysBino (Above Gravity): 10 PTS, 6 REB, 1 AST
+     4-6 FG (66.7%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  TooToxicToni (Above Gravity): 2 PTS, 3 REB, 22 AST
+     1-5 FG (20.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 6 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* RUN N DUNK (Liquid Underground) (Liquid Underground) led all scorers with 30 points.
+* RUN N DUNK (Liquid Underground) (Liquid Underground) dominated the boards with 17 rebounds.
+* TooToxicToni (Above Gravity) (Above Gravity) dished out a game-high 22 assists.
+
+* Liquid Underground shot 56.7% from the field
+  and 44.8% from three-point range.
+  Efficient shooting night for Liquid Underground.
+  Excellent ball protection with just 2 turnovers.
+
+* Above Gravity shot 57.4% from the field
+  and 45.0% from three-point range.
+  Efficient shooting night for Above Gravity.
+
+==================================================

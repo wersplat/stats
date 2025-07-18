@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Lights Out vs NoPlaysOff
+Date: Wednesday, March 12, 2025 12:25 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Lights Out                NoPlaysOff               
+---------------------------------------------------------------------------
+Field Goals:              26-46 (56.5%)             21-45 (46.7%)            
+3-Pointers:               12-25 (48.0%)             7-18 (38.9%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 24                        17                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  21                        17                       
+Steals:                   7                         6                        
+Blocks:                   1                         0                        
+Turnovers:                8                         8                        
+Fouls:                    5                         7                        
+Points:                   66                        49                       
+True Shooting %:          71.7%                     54.4%                    
+Assist/TO Ratio:          2.6                       2.1                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Lights Out Players:
+  itZGmac (Lights Out): 25 PTS, 0 REB, 3 AST
+     9-15 FG (60.0%), 7-12 3FG (58.3%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 2.0 pf
+  ReallyTM (Lights Out): 16 PTS, 0 REB, 6 AST
+     7-12 FG (58.3%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+  xFatboyTrae (Lights Out): 10 PTS, 13 REB, 5 AST
+     5-6 FG (83.3%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  HitFlu (Lights Out): 9 PTS, 0 REB, 2 AST
+     3-9 FG (33.3%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  FatNiinja_ (Lights Out): 6 PTS, 11 REB, 5 AST
+     2-4 FG (50.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 1 TO
+
+NoPlaysOff Players:
+  Manman3600 (NoPlaysOff): 16 PTS, 1 REB, 0 AST
+     7-10 FG (70.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 3.0 pf
+  Clevonta (NoPlaysOff): 10 PTS, 10 REB, 8 AST
+     5-9 FG (55.6%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  isoTayy (NoPlaysOff): 9 PTS, 5 REB, 1 AST
+     3-4 FG (75.0%), 3-3 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 3.0 pf
+  TopDottaGeniio (NoPlaysOff): 7 PTS, 1 REB, 4 AST
+     3-13 FG (23.1%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 1.0 pf
+  ayJordan (NoPlaysOff): 7 PTS, 0 REB, 4 AST
+     3-9 FG (33.3%), 1-7 3FG (14.3%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO
+
+-------------------- GAME NOTES --------------------
+
+* itZGmac (Lights Out) (Lights Out) led all scorers with 25 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 13 rebounds.
+* Clevonta (NoPlaysOff) (NoPlaysOff) dished out a game-high 8 assists.
+
+* Lights Out shot 56.5% from the field
+  and 48.0% from three-point range.
+  Efficient shooting night for Lights Out.
+
+* NoPlaysOff shot 46.7% from the field
+  and 38.9% from three-point range.
+
+==================================================

@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+NoPlaysOff vs Generation of Miracles
+Date: Friday, March 21, 2025 01:50 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         NoPlaysOff                Generation of Miracles   
+---------------------------------------------------------------------------
+Field Goals:              20-40 (50.0%)             25-47 (53.2%)            
+3-Pointers:               12-28 (42.9%)             10-21 (47.6%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 14                        21                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  14                        17                       
+Steals:                   10                        11                       
+Blocks:                   2                         1                        
+Turnovers:                12                        11                       
+Fouls:                    4                         8                        
+Points:                   55                        61                       
+True Shooting %:          68.8%                     64.9%                    
+Assist/TO Ratio:          1.2                       1.5                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+NoPlaysOff Players:
+  TopDottaGeniio (NoPlaysOff): 21 PTS, 0 REB, 0 AST
+     8-10 FG (80.0%), 5-6 3FG (83.3%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 4 TO, 3.0 pf
+  LukaQuancic (NoPlaysOff): 11 PTS, 1 REB, 5 AST
+     4-10 FG (40.0%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 2 TO
+  Manman3600 (NoPlaysOff): 11 PTS, 4 REB, 0 AST
+     4-7 FG (57.1%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 1.0 pf
+  ayJordan (NoPlaysOff): 7 PTS, 1 REB, 2 AST
+     2-5 FG (40.0%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 4 TO
+  Clevonta (NoPlaysOff): 5 PTS, 8 REB, 7 AST
+     2-8 FG (25.0%), 0-5 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 1 TO
+
+Generation of Miracles Players:
+  BenSkywalker (Generation of Miracles): 21 PTS, 2 REB, 3 AST
+     8-11 FG (72.7%), 4-4 3FG (100.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 7 TO
+  supa shyne (Generation of Miracles): 13 PTS, 0 REB, 3 AST
+     5-10 FG (50.0%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 3.0 pf
+  PlsDontSlip (Generation of Miracles): 13 PTS, 9 REB, 1 AST
+     5-13 FG (38.5%), 3-9 3FG (33.3%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 1 TO, 1.0 pf
+  papercutprone (Generation of Miracles): 8 PTS, 0 REB, 3 AST
+     4-8 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO, 3.0 pf
+  BlumbergBoyz (Generation of Miracles): 6 PTS, 10 REB, 7 AST
+     3-5 FG (60.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* TopDottaGeniio (NoPlaysOff) (NoPlaysOff) led all scorers with 21 points.
+* BlumbergBoyz (Generation of Miracles) (Generation of Miracles) dominated the boards with 10 rebounds.
+* Clevonta (NoPlaysOff) (NoPlaysOff) dished out a game-high 7 assists.
+
+* NoPlaysOff shot 50.0% from the field
+  and 42.9% from three-point range.
+  Efficient shooting night for NoPlaysOff.
+
+* Generation of Miracles shot 53.2% from the field
+  and 47.6% from three-point range.
+  Efficient shooting night for Generation of Miracles.
+
+==================================================

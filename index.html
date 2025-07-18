@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Recaps</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .recap-list {
+            list-style: none;
+            padding: 0;
+        }
+        .recap-item {
+            background: #f9f9f9;
+            margin-bottom: 10px;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .recap-link {
+            text-decoration: none;
+            color: #3498db;
+            font-weight: bold;
+        }
+        .recap-link:hover {
+            text-decoration: underline;
+        }
+        .recap-date {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        .team-names {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <h1>Game Recaps</h1>
+    <ul class="recap-list" id="recapList">
+        <!-- Recaps will be loaded here by JavaScript -->
+    </ul>
+
+    <script>
+        // Get all .txt files in the directory
+        async function loadRecaps() {
+            try {
+                const response = await fetch('/api/recaps');
+                const files = await response.json();
+                const recapList = document.getElementById('recapList');
+                
+                // Sort files by date (newest first)
+                files.sort((a, b) => b.match(/\d+/)[0] - a.match(/\d+/)[0]);
+                
+                files.forEach(file => {
+                    const li = document.createElement('li');
+                    li.className = 'recap-item';
+                    
+                    // Extract team names and date from filename
+                    const fileName = file.replace('_recap.txt', '');
+                    const [team1, team2, ...rest] = fileName.split('_vs_');
+                    const gameId = rest.pop().split('_').pop();
+                    const date = new Date(parseInt(gameId) * 1000).toLocaleDateString();
+                    
+                    li.innerHTML = `
+                        <a href="/recap/${file}" class="recap-link">
+                            <span class="team-names">${team1.replace(/_/g, ' ')} vs ${team2.replace(/_/g, ' ')}</span>
+                            <div class="recap-date">Game ID: ${gameId} • ${date}</div>
+                        </a>
+                    `;
+                    
+                    recapList.appendChild(li);
+                });
+            } catch (error) {
+                console.error('Error loading recaps:', error);
+                document.getElementById('recapList').innerHTML = 
+                    '<li>Error loading recaps. Please try again later.</li>';
+            }
+        }
+
+        // Load recaps when the page loads
+        window.onload = loadRecaps;
+    </script>
+</body>
+</html>

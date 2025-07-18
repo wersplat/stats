@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+On Site vs Breakout Gaming
+Date: Thursday, January 16, 2025 10:53 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         On Site                   Breakout Gaming          
+---------------------------------------------------------------------------
+Field Goals:              20-34 (58.8%)             21-37 (56.8%)            
+3-Pointers:               8-15 (53.3%)              7-19 (36.8%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 16                        11                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  13                        13                       
+Steals:                   4                         6                        
+Blocks:                   0                         1                        
+Turnovers:                7                         4                        
+Fouls:                    12                        9                        
+Points:                   49                        51                       
+True Shooting %:          72.1%                     68.9%                    
+Assist/TO Ratio:          1.9                       3.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+On Site Players:
+  IlDosh (On Site): 22 PTS, 0 REB, 5 AST
+     8-14 FG (57.1%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 3.0 pf
+  P7Precise (On Site): 14 PTS, 0 REB, 3 AST
+     6-10 FG (60.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  Chuba (On Site): 7 PTS, 15 REB, 3 AST
+     3-3 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 4.0 pf
+  llJMAR (On Site): 4 PTS, 0 REB, 0 AST
+     2-6 FG (33.3%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  Amoon (On Site): 2 PTS, 1 REB, 2 AST
+     1-1 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 4.0 pf
+
+Breakout Gaming Players:
+  xHoodieKyy (Breakout Gaming): 20 PTS, 1 REB, 4 AST
+     8-13 FG (61.5%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  JohhnyRed_ (Breakout Gaming): 11 PTS, 0 REB, 3 AST
+     5-8 FG (62.5%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 4.0 pf
+  DatBoyDimez (Breakout Gaming): 9 PTS, 5 REB, 5 AST
+     3-7 FG (42.9%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 0 TO
+  DjayTooCold (Breakout Gaming): 7 PTS, 0 REB, 1 AST
+     3-6 FG (50.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 0 TO, 3.0 pf
+  ImGloski (Breakout Gaming): 4 PTS, 5 REB, 0 AST
+     2-3 FG (66.7%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 22 points.
+* Chuba (On Site) (On Site) dominated the boards with 15 rebounds.
+* IlDosh (On Site) (On Site) dished out a game-high 5 assists.
+
+* On Site shot 58.8% from the field
+  and 53.3% from three-point range.
+  Efficient shooting night for On Site.
+
+* Breakout Gaming shot 56.8% from the field
+  and 36.8% from three-point range.
+  Efficient shooting night for Breakout Gaming.
+  Excellent ball protection with just 4 turnovers.
+
+==================================================

@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+On Site vs High Octane
+Date: Sunday, March 23, 2025 12:27 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         On Site                   High Octane              
+---------------------------------------------------------------------------
+Field Goals:              33-50 (66.0%)             20-42 (47.6%)            
+3-Pointers:               21-36 (58.3%)             11-27 (40.7%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 24                        12                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  20                        14                       
+Steals:                   12                        5                        
+Blocks:                   1                         0                        
+Turnovers:                6                         13                       
+Fouls:                    10                        8                        
+Points:                   91                        51                       
+True Shooting %:          91.0%                     60.7%                    
+Assist/TO Ratio:          3.3                       1.1                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+On Site Players:
+  IlDosh (On Site): 37 PTS, 0 REB, 5 AST
+     13-20 FG (65.0%), 11-18 3FG (61.1%), 0-0 FT (0.0%)
+     6 STL, 0 BLK, 4 TO, 3.0 pf
+  P7Precise (On Site): 28 PTS, 0 REB, 3 AST
+     10-13 FG (76.9%), 6-8 3FG (75.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  llJMAR (On Site): 12 PTS, 1 REB, 4 AST
+     5-6 FG (83.3%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     5 STL, 1 BLK, 0 TO, 4.0 pf
+  AintThatOurBall (On Site): 9 PTS, 14 REB, 5 AST
+     3-8 FG (37.5%), 1-6 3FG (16.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  Chuba (On Site): 5 PTS, 9 REB, 3 AST
+     2-3 FG (66.7%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+
+High Octane Players:
+  iMxWORK (High Octane): 22 PTS, 0 REB, 1 AST
+     9-19 FG (47.4%), 4-12 3FG (33.3%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 6 TO, 2.0 pf
+  LLRXNDO (High Octane): 13 PTS, 1 REB, 5 AST
+     5-13 FG (38.5%), 3-8 3FG (37.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 7 TO, 2.0 pf
+  IIlyWooll (High Octane): 8 PTS, 0 REB, 2 AST
+     3-6 FG (50.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 4.0 pf
+  DaFamousGoat (High Octane): 6 PTS, 1 REB, 1 AST
+     2-3 FG (66.7%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  II_Quaa_II (High Octane): 2 PTS, 10 REB, 5 AST
+     1-1 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 37 points.
+* AintThatOurBall (On Site) (On Site) dominated the boards with 14 rebounds.
+* IlDosh (On Site) (On Site) dished out a game-high 5 assists.
+
+* On Site shot 66.0% from the field
+  and 58.3% from three-point range.
+  Efficient shooting night for On Site.
+
+* High Octane shot 47.6% from the field
+  and 40.7% from three-point range.
+
+==================================================

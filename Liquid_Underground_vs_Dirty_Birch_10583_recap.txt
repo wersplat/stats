@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Liquid Underground vs Dirty Birch
+Date: Friday, March 21, 2025 10:34 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Liquid Underground        Dirty Birch              
+---------------------------------------------------------------------------
+Field Goals:              25-45 (55.6%)             27-44 (61.4%)            
+3-Pointers:               17-39 (43.6%)             16-31 (51.6%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 24                        19                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  11                        25                       
+Steals:                   9                         4                        
+Blocks:                   0                         1                        
+Turnovers:                5                         9                        
+Fouls:                    3                         10                       
+Points:                   75                        72                       
+True Shooting %:          83.3%                     81.8%                    
+Assist/TO Ratio:          2.2                       2.8                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Liquid Underground Players:
+  UltimateKrabz (Liquid Underground): 23 PTS, 2 REB, 7 AST
+     7-19 FG (36.8%), 5-16 3FG (31.2%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 4 TO, 2.0 pf
+  xDoov (Liquid Underground): 21 PTS, 0 REB, 1 AST
+     6-12 FG (50.0%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO
+  ThyReelManny (Liquid Underground): 18 PTS, 3 REB, 0 AST
+     6-9 FG (66.7%), 6-7 3FG (85.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  RUN N DUNK (Liquid Underground): 8 PTS, 19 REB, 2 AST
+     4-5 FG (80.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  RN Locks (Liquid Underground): 5 PTS, 0 REB, 1 AST
+     2-0 FG (0.0%), 1-7 3FG (14.3%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 0 TO
+
+Dirty Birch Players:
+  maS (Dirty Birch): 23 PTS, 5 REB, 3 AST
+     9-14 FG (64.3%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 2.0 pf
+  chop7041 (Dirty Birch): 17 PTS, 0 REB, 0 AST
+     6-11 FG (54.5%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 3.0 pf
+  Swaggy J (Dirty Birch): 16 PTS, 0 REB, 13 AST
+     5-8 FG (62.5%), 5-8 3FG (62.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 2.0 pf
+  Demaatic (Dirty Birch): 11 PTS, 14 REB, 5 AST
+     5-6 FG (83.3%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 3 TO, 3.0 pf
+  Icy (Dirty Birch): 5 PTS, 0 REB, 4 AST
+     2-5 FG (40.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+
+-------------------- GAME NOTES --------------------
+
+* UltimateKrabz (Liquid Underground) (Liquid Underground) led all scorers with 23 points.
+* RUN N DUNK (Liquid Underground) (Liquid Underground) dominated the boards with 19 rebounds.
+* Swaggy J (Dirty Birch) (Dirty Birch) dished out a game-high 13 assists.
+
+* Liquid Underground shot 55.6% from the field
+  and 43.6% from three-point range.
+  Efficient shooting night for Liquid Underground.
+  Excellent ball protection with just 5 turnovers.
+
+* Dirty Birch shot 61.4% from the field
+  and 51.6% from three-point range.
+  Efficient shooting night for Dirty Birch.
+
+==================================================

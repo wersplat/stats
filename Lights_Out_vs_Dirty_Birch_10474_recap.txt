@@ -1,0 +1,85 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Lights Out vs Dirty Birch
+Date: Tuesday, March 18, 2025 11:55 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Lights Out                Dirty Birch              
+---------------------------------------------------------------------------
+Field Goals:              30-59 (50.8%)             18-35 (51.4%)            
+3-Pointers:               20-41 (48.8%)             9-20 (45.0%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 26                        20                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  21                        16                       
+Steals:                   17                        2                        
+Blocks:                   2                         1                        
+Turnovers:                3                         19                       
+Fouls:                    6                         12                       
+Points:                   88                        47                       
+True Shooting %:          74.6%                     67.1%                    
+Assist/TO Ratio:          7.0                       0.8                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Lights Out Players:
+  itZGmac (Lights Out): 26 PTS, 0 REB, 3 AST
+     9-19 FG (47.4%), 8-18 3FG (44.4%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 2 TO, 3.0 pf
+  HitFlu (Lights Out): 24 PTS, 1 REB, 0 AST
+     8-15 FG (53.3%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     6 STL, 0 BLK, 0 TO, 1.0 pf
+  ReallyTM (Lights Out): 22 PTS, 1 REB, 6 AST
+     7-16 FG (43.8%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  xFatboyTrae (Lights Out): 10 PTS, 18 REB, 9 AST
+     4-5 FG (80.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO, 1.0 pf
+  FatNiinja_ (Lights Out): 6 PTS, 6 REB, 3 AST
+     2-4 FG (50.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     5 STL, 1 BLK, 0 TO
+
+Dirty Birch Players:
+  SKD SILKY (Dirty Birch): 16 PTS, 1 REB, 3 AST
+     5-10 FG (50.0%), 4-9 3FG (44.4%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 3.0 pf
+  Demaatic (Dirty Birch): 13 PTS, 11 REB, 2 AST
+     6-12 FG (50.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+  Swaggy J (Dirty Birch): 10 PTS, 6 REB, 1 AST
+     4-5 FG (80.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 2 TO, 3.0 pf
+  Icy (Dirty Birch): 5 PTS, 0 REB, 9 AST
+     2-4 FG (50.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 11 TO, 2.0 pf
+  GLK40RTY (Dirty Birch): 3 PTS, 2 REB, 1 AST
+     1-4 FG (25.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 4.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* itZGmac (Lights Out) (Lights Out) led all scorers with 26 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 18 rebounds.
+* xFatboyTrae (Lights Out) (Lights Out) dished out a game-high 9 assists.
+
+* Lights Out shot 50.8% from the field
+  and 48.8% from three-point range.
+  Efficient shooting night for Lights Out.
+  Excellent ball protection with just 3 turnovers.
+
+* Dirty Birch shot 51.4% from the field
+  and 45.0% from three-point range.
+  Efficient shooting night for Dirty Birch.
+  Ball security was an issue with 19 turnovers.
+
+==================================================

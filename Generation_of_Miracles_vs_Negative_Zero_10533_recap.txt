@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Generation of Miracles vs Negative Zero
+Date: Friday, March 21, 2025 01:50 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Generation of Miracles    Negative Zero            
+---------------------------------------------------------------------------
+Field Goals:              27-59 (45.8%)             26-52 (50.0%)            
+3-Pointers:               10-25 (40.0%)             15-32 (46.9%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 35                        21                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  16                        19                       
+Steals:                   9                         7                        
+Blocks:                   0                         0                        
+Turnovers:                11                        9                        
+Fouls:                    5                         10                       
+Points:                   68                        67                       
+True Shooting %:          57.6%                     64.4%                    
+Assist/TO Ratio:          1.5                       2.1                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Generation of Miracles Players:
+  PlsDontSlip (Generation of Miracles): 17 PTS, 7 REB, 3 AST
+     7-12 FG (58.3%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 2 TO
+  BenSkywalker (Generation of Miracles): 16 PTS, 0 REB, 4 AST
+     5-12 FG (41.7%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  BlumbergBoyz (Generation of Miracles): 15 PTS, 25 REB, 4 AST
+     7-14 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 2.0 pf
+  supa shyne (Generation of Miracles): 14 PTS, 0 REB, 2 AST
+     5-13 FG (38.5%), 4-9 3FG (44.4%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO, 1.0 pf
+  papercutprone (Generation of Miracles): 6 PTS, 3 REB, 3 AST
+     3-8 FG (37.5%), 0-4 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 3 TO, 2.0 pf
+
+Negative Zero Players:
+  BlameSho (Negative Zero): 28 PTS, 0 REB, 3 AST
+     11-20 FG (55.0%), 6-14 3FG (42.9%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 2.0 pf
+  BlameChan (Negative Zero): 19 PTS, 1 REB, 9 AST
+     7-19 FG (36.8%), 5-11 3FG (45.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  JitZeus (Negative Zero): 8 PTS, 1 REB, 1 AST
+     3-5 FG (60.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     5 STL, 0 BLK, 1 TO, 2.0 pf
+  BlameFendi (Negative Zero): 6 PTS, 9 REB, 4 AST
+     2-4 FG (50.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 2.0 pf
+  CatchingBlessing (Negative Zero): 6 PTS, 10 REB, 2 AST
+     3-4 FG (75.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 4.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* BlameSho (Negative Zero) (Negative Zero) led all scorers with 28 points.
+* BlumbergBoyz (Generation of Miracles) (Generation of Miracles) dominated the boards with 25 rebounds.
+* BlameChan (Negative Zero) (Negative Zero) dished out a game-high 9 assists.
+
+* Generation of Miracles shot 45.8% from the field
+  and 40.0% from three-point range.
+
+* Negative Zero shot 50.0% from the field
+  and 46.9% from three-point range.
+  Efficient shooting night for Negative Zero.
+
+==================================================

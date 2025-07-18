@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Before The Fame vs On Site
+Date: Sunday, February 23, 2025 09:32 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Before The Fame           On Site                  
+---------------------------------------------------------------------------
+Field Goals:              20-31 (64.5%)             9-15 (60.0%)             
+3-Pointers:               10-17 (58.8%)             4-9 (44.4%)              
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 10                        7                        
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  15                        4                        
+Steals:                   9                         1                        
+Blocks:                   1                         0                        
+Turnovers:                2                         9                        
+Fouls:                    8                         3                        
+Points:                   50                        24                       
+True Shooting %:          80.6%                     80.0%                    
+Assist/TO Ratio:          7.5                       0.4                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Before The Fame Players:
+  Orbit Splash (Before The Fame): 15 PTS, 1 REB, 1 AST
+     6-8 FG (75.0%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 0 TO, 1.0 pf
+  TheOnlyStun (Before The Fame): 14 PTS, 0 REB, 9 AST
+     5-10 FG (50.0%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  JayoTooCold (Before The Fame): 10 PTS, 0 REB, 1 AST
+     4-4 FG (100.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO, 4.0 pf
+  Kompetxtive (Before The Fame): 7 PTS, 6 REB, 2 AST
+     3-4 FG (75.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 2 TO
+  xkingsworld (Before The Fame): 4 PTS, 3 REB, 2 AST
+     2-5 FG (40.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 2.0 pf
+
+On Site Players:
+  IlDosh (On Site): 11 PTS, 0 REB, 2 AST
+     4-5 FG (80.0%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 4 TO
+  P7Precise (On Site): 7 PTS, 0 REB, 1 AST
+     2-6 FG (33.3%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+  Chuba (On Site): 4 PTS, 6 REB, 1 AST
+     2-2 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+  llJMAR (On Site): 2 PTS, 1 REB, 0 AST
+     1-2 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  Amoon (On Site): 0 PTS, 0 REB, 0 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+
+-------------------- GAME NOTES --------------------
+
+* Orbit Splash (Before The Fame) (Before The Fame) led all scorers with 15 points.
+* Kompetxtive (Before The Fame) (Before The Fame) dominated the boards with 6 rebounds.
+* TheOnlyStun (Before The Fame) (Before The Fame) dished out a game-high 9 assists.
+
+* Before The Fame shot 64.5% from the field
+  and 58.8% from three-point range.
+  Efficient shooting night for Before The Fame.
+  Excellent ball protection with just 2 turnovers.
+
+* On Site shot 60.0% from the field
+  and 44.4% from three-point range.
+  Efficient shooting night for On Site.
+
+==================================================

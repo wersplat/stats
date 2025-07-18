@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+The Takeover vs On Site
+Date: Thursday, January 09, 2025 11:11 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         The Takeover              On Site                  
+---------------------------------------------------------------------------
+Field Goals:              23-40 (57.5%)             19-38 (50.0%)            
+3-Pointers:               7-16 (43.8%)              12-28 (42.9%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 18                        16                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  17                        11                       
+Steals:                   4                         5                        
+Blocks:                   1                         0                        
+Turnovers:                6                         5                        
+Fouls:                    8                         7                        
+Points:                   53                        57                       
+True Shooting %:          66.2%                     75.0%                    
+Assist/TO Ratio:          2.8                       2.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+The Takeover Players:
+  NovaAssazzin (The Takeover): 25 PTS, 0 REB, 3 AST
+     10-14 FG (71.4%), 5-7 3FG (71.4%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 5.0 pf
+  Noo spacee (The Takeover): 11 PTS, 4 REB, 2 AST
+     5-8 FG (62.5%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 0 TO, 1.0 pf
+  MrNikeCash (The Takeover): 9 PTS, 14 REB, 5 AST
+     4-6 FG (66.7%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO, 1.0 pf
+  Keylofading (The Takeover): 8 PTS, 0 REB, 6 AST
+     4-12 FG (33.3%), 0-5 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  BigGloPrince (The Takeover): 0 PTS, 0 REB, 1 AST
+     0-0 FG (0.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+
+On Site Players:
+  IlDosh (On Site): 17 PTS, 0 REB, 1 AST
+     5-13 FG (38.5%), 5-12 3FG (41.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  P7Precise (On Site): 16 PTS, 0 REB, 7 AST
+     6-11 FG (54.5%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  llJMAR (On Site): 10 PTS, 2 REB, 1 AST
+     3-7 FG (42.9%), 1-5 3FG (20.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  Chuba (On Site): 8 PTS, 10 REB, 1 AST
+     3-5 FG (60.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 3 TO, 3.0 pf
+  Amoon (On Site): 6 PTS, 4 REB, 1 AST
+     2-2 FG (100.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+
+-------------------- GAME NOTES --------------------
+
+* NovaAssazzin (The Takeover) (The Takeover) led all scorers with 25 points.
+* MrNikeCash (The Takeover) (The Takeover) dominated the boards with 14 rebounds.
+* P7Precise (On Site) (On Site) dished out a game-high 7 assists.
+
+* The Takeover shot 57.5% from the field
+  and 43.8% from three-point range.
+  Efficient shooting night for The Takeover.
+
+* On Site shot 50.0% from the field
+  and 42.9% from three-point range.
+  Efficient shooting night for On Site.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

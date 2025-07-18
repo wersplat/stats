@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Bodega Cats vs Generation of Miracles
+Date: Thursday, March 13, 2025 11:28 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Bodega Cats               Generation of Miracles   
+---------------------------------------------------------------------------
+Field Goals:              23-37 (62.2%)             21-38 (55.3%)            
+3-Pointers:               5-11 (45.5%)              11-23 (47.8%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 20                        11                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  16                        15                       
+Steals:                   11                        11                       
+Blocks:                   1                         0                        
+Turnovers:                13                        12                       
+Fouls:                    7                         7                        
+Points:                   56                        54                       
+True Shooting %:          75.7%                     71.1%                    
+Assist/TO Ratio:          1.2                       1.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Bodega Cats Players:
+  Big Clip Ron (Bodega Cats): 27 PTS, 0 REB, 2 AST
+     12-18 FG (66.7%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 3.0 pf
+  o_ihoop5_o (Bodega Cats): 10 PTS, 1 REB, 5 AST
+     4-6 FG (66.7%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     8 STL, 0 BLK, 3 TO, 2.0 pf
+  T2E xLOUx X6 (Bodega Cats): 8 PTS, 13 REB, 3 AST
+     3-3 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 2 TO
+  Goldenboy YP (Bodega Cats): 6 PTS, 1 REB, 4 AST
+     2-6 FG (33.3%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 5 TO
+  IVIr SyN (Bodega Cats): 5 PTS, 5 REB, 2 AST
+     2-4 FG (50.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+
+Generation of Miracles Players:
+  supa shyne (Generation of Miracles): 14 PTS, 0 REB, 2 AST
+     5-12 FG (41.7%), 4-10 3FG (40.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO
+  papercutprone (Generation of Miracles): 14 PTS, 1 REB, 3 AST
+     6-8 FG (75.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 2.0 pf
+  PlsDontSlip (Generation of Miracles): 12 PTS, 3 REB, 1 AST
+     4-4 FG (100.0%), 4-4 3FG (100.0%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 1 TO, 2.0 pf
+  BenSkywalker (Generation of Miracles): 8 PTS, 0 REB, 7 AST
+     3-8 FG (37.5%), 1-6 3FG (16.7%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 4 TO, 2.0 pf
+  BlumbergBoyz (Generation of Miracles): 6 PTS, 7 REB, 2 AST
+     3-6 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Big Clip Ron (Bodega Cats) (Bodega Cats) led all scorers with 27 points.
+* T2E xLOUx X6 (Bodega Cats) (Bodega Cats) dominated the boards with 13 rebounds.
+* BenSkywalker (Generation of Miracles) (Generation of Miracles) dished out a game-high 7 assists.
+
+* Bodega Cats shot 62.2% from the field
+  and 45.5% from three-point range.
+  Efficient shooting night for Bodega Cats.
+
+* Generation of Miracles shot 55.3% from the field
+  and 47.8% from three-point range.
+  Efficient shooting night for Generation of Miracles.
+
+==================================================

@@ -1,0 +1,85 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Generation of Miracles vs High Octane
+Date: Friday, March 21, 2025 01:51 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Generation of Miracles    High Octane              
+---------------------------------------------------------------------------
+Field Goals:              28-47 (59.6%)             27-45 (60.0%)            
+3-Pointers:               10-23 (43.5%)             12-20 (60.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 19                        18                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  19                        14                       
+Steals:                   4                         3                        
+Blocks:                   2                         2                        
+Turnovers:                3                         5                        
+Fouls:                    7                         9                        
+Points:                   72                        71                       
+True Shooting %:          76.6%                     78.9%                    
+Assist/TO Ratio:          6.3                       2.8                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Generation of Miracles Players:
+  AdolfHitner (Generation of Miracles): 28 PTS, 3 REB, 7 AST
+     10-19 FG (52.6%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  BlumbergBoyz (Generation of Miracles): 20 PTS, 12 REB, 5 AST
+     8-10 FG (80.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 2.0 pf
+  PlsDontSlip (Generation of Miracles): 11 PTS, 2 REB, 2 AST
+     4-5 FG (80.0%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 0 TO, 1.0 pf
+  papercutprone (Generation of Miracles): 7 PTS, 2 REB, 2 AST
+     3-5 FG (60.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     3 STL, 1 BLK, 0 TO, 3.0 pf
+  supa shyne (Generation of Miracles): 6 PTS, 0 REB, 3 AST
+     3-8 FG (37.5%), 0-5 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+
+High Octane Players:
+  iMxWORK (High Octane): 37 PTS, 2 REB, 6 AST
+     13-23 FG (56.5%), 6-11 3FG (54.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  II_Quaa_II (High Octane): 19 PTS, 0 REB, 1 AST
+     7-10 FG (70.0%), 5-7 3FG (71.4%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 2.0 pf
+  TruDe3mon (High Octane): 8 PTS, 12 REB, 3 AST
+     4-4 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 2 BLK, 0 TO, 4.0 pf
+  IIlyWooll (High Octane): 4 PTS, 0 REB, 2 AST
+     2-4 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  DaFamousGoat (High Octane): 3 PTS, 4 REB, 2 AST
+     1-4 FG (25.0%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* iMxWORK (High Octane) (High Octane) led all scorers with 37 points.
+* BlumbergBoyz (Generation of Miracles) (Generation of Miracles) dominated the boards with 12 rebounds.
+* AdolfHitner (Generation of Miracles) (Generation of Miracles) dished out a game-high 7 assists.
+
+* Generation of Miracles shot 59.6% from the field
+  and 43.5% from three-point range.
+  Efficient shooting night for Generation of Miracles.
+  Excellent ball protection with just 3 turnovers.
+
+* High Octane shot 60.0% from the field
+  and 60.0% from three-point range.
+  Efficient shooting night for High Octane.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

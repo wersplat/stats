@@ -1,0 +1,85 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Team Solidified vs On Site
+Date: Friday, January 10, 2025 08:31 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Team Solidified           On Site                  
+---------------------------------------------------------------------------
+Field Goals:              16-21 (76.2%)             10-18 (55.6%)            
+3-Pointers:               8-11 (72.7%)              5-12 (41.7%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 9                         4                        
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  10                        7                        
+Steals:                   4                         4                        
+Blocks:                   0                         0                        
+Turnovers:                4                         5                        
+Fouls:                    4                         6                        
+Points:                   42                        27                       
+True Shooting %:          100.0%                    75.0%                    
+Assist/TO Ratio:          2.5                       1.4                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Team Solidified Players:
+  what bliik (Team Solidified): 19 PTS, 0 REB, 2 AST
+     7-7 FG (100.0%), 5-5 3FG (100.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 1.0 pf
+  StopFifty (Team Solidified): 11 PTS, 0 REB, 5 AST
+     4-6 FG (66.7%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  StopFreaky (Team Solidified): 5 PTS, 0 REB, 0 AST
+     2-3 FG (66.7%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 2.0 pf
+  Crodie (Team Solidified): 4 PTS, 7 REB, 2 AST
+     2-2 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  nxtgenstreetTTTV (Team Solidified): 3 PTS, 2 REB, 1 AST
+     1-3 FG (33.3%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+
+On Site Players:
+  P7Precise (On Site): 7 PTS, 0 REB, 3 AST
+     2-5 FG (40.0%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+  llJMAR (On Site): 7 PTS, 0 REB, 0 AST
+     3-4 FG (75.0%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO
+  Amoon (On Site): 6 PTS, 1 REB, 0 AST
+     2-2 FG (100.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 1.0 pf
+  Chuba (On Site): 4 PTS, 3 REB, 2 AST
+     2-3 FG (66.7%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  IlDosh (On Site): 3 PTS, 0 REB, 2 AST
+     1-4 FG (25.0%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 4.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* what bliik (Team Solidified) (Team Solidified) led all scorers with 19 points.
+* Crodie (Team Solidified) (Team Solidified) dominated the boards with 7 rebounds.
+* StopFifty (Team Solidified) (Team Solidified) dished out a game-high 5 assists.
+
+* Team Solidified shot 76.2% from the field
+  and 72.7% from three-point range.
+  Efficient shooting night for Team Solidified.
+  Excellent ball protection with just 4 turnovers.
+
+* On Site shot 55.6% from the field
+  and 41.7% from three-point range.
+  Efficient shooting night for On Site.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

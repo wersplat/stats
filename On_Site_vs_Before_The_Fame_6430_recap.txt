@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+On Site vs Before The Fame
+Date: Thursday, January 02, 2025 09:58 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         On Site                   Before The Fame          
+---------------------------------------------------------------------------
+Field Goals:              26-45 (57.8%)             22-39 (56.4%)            
+3-Pointers:               15-27 (55.6%)             10-21 (47.6%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 13                        12                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  22                        12                       
+Steals:                   9                         5                        
+Blocks:                   1                         0                        
+Turnovers:                4                         10                       
+Fouls:                    13                        11                       
+Points:                   70                        58                       
+True Shooting %:          77.8%                     74.4%                    
+Assist/TO Ratio:          5.5                       1.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+On Site Players:
+  IlDosh (On Site): 29 PTS, 0 REB, 6 AST
+     9-15 FG (60.0%), 8-12 3FG (66.7%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO, 2.0 pf
+  P7Precise (On Site): 13 PTS, 0 REB, 10 AST
+     5-10 FG (50.0%), 3-7 3FG (42.9%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  Chuba (On Site): 13 PTS, 9 REB, 2 AST
+     6-9 FG (66.7%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 3.0 pf
+  llJMAR (On Site): 8 PTS, 0 REB, 3 AST
+     3-6 FG (50.0%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 2 TO, 3.0 pf
+  Amoon (On Site): 7 PTS, 4 REB, 1 AST
+     3-5 FG (60.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 0 TO, 4.0 pf
+
+Before The Fame Players:
+  TheOnlyStun (Before The Fame): 20 PTS, 0 REB, 6 AST
+     8-18 FG (44.4%), 3-10 3FG (30.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 7 TO, 1.0 pf
+  Orbit Splash (Before The Fame): 16 PTS, 0 REB, 0 AST
+     6-7 FG (85.7%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  OhDonn (Before The Fame): 8 PTS, 5 REB, 1 AST
+     3-5 FG (60.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 3.0 pf
+  Kompetxtive (Before The Fame): 8 PTS, 5 REB, 1 AST
+     3-5 FG (60.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 3.0 pf
+  xkingsworld (Before The Fame): 6 PTS, 2 REB, 4 AST
+     2-4 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 29 points.
+* Chuba (On Site) (On Site) dominated the boards with 9 rebounds.
+* P7Precise (On Site) (On Site) dished out a game-high 10 assists.
+
+* On Site shot 57.8% from the field
+  and 55.6% from three-point range.
+  Efficient shooting night for On Site.
+  Excellent ball protection with just 4 turnovers.
+
+* Before The Fame shot 56.4% from the field
+  and 47.6% from three-point range.
+  Efficient shooting night for Before The Fame.
+
+==================================================

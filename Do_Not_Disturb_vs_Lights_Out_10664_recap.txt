@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Do Not Disturb vs Lights Out
+Date: Thursday, March 27, 2025 12:27 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Do Not Disturb            Lights Out               
+---------------------------------------------------------------------------
+Field Goals:              24-41 (58.5%)             31-46 (67.4%)            
+3-Pointers:               13-23 (56.5%)             14-24 (58.3%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 13                        18                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  14                        21                       
+Steals:                   4                         8                        
+Blocks:                   0                         1                        
+Turnovers:                9                         5                        
+Fouls:                    5                         8                        
+Points:                   64                        78                       
+True Shooting %:          78.0%                     84.8%                    
+Assist/TO Ratio:          1.6                       4.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Do Not Disturb Players:
+  C4_Kamo (Do Not Disturb): 19 PTS, 0 REB, 5 AST
+     8-12 FG (66.7%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 5 TO
+  RelayFC (Do Not Disturb): 19 PTS, 0 REB, 4 AST
+     7-17 FG (41.2%), 5-11 3FG (45.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  BTA_Dozier (Do Not Disturb): 9 PTS, 0 REB, 1 AST
+     3-6 FG (50.0%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 2.0 pf
+  Fast_Slips (Do Not Disturb): 9 PTS, 10 REB, 3 AST
+     3-3 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  Buckatory (Do Not Disturb): 8 PTS, 3 REB, 1 AST
+     3-3 FG (100.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+
+Lights Out Players:
+  itZGmac (Lights Out): 24 PTS, 1 REB, 1 AST
+     8-17 FG (47.1%), 8-14 3FG (57.1%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO
+  ReallyTM (Lights Out): 19 PTS, 1 REB, 14 AST
+     8-10 FG (80.0%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  HitFlu (Lights Out): 17 PTS, 0 REB, 0 AST
+     7-9 FG (77.8%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     4 STL, 1 BLK, 1 TO, 3.0 pf
+  xFatboyTrae (Lights Out): 12 PTS, 13 REB, 4 AST
+     6-6 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 3.0 pf
+  FatNiinja_ (Lights Out): 6 PTS, 3 REB, 2 AST
+     2-4 FG (50.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* itZGmac (Lights Out) (Lights Out) led all scorers with 24 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 13 rebounds.
+* ReallyTM (Lights Out) (Lights Out) dished out a game-high 14 assists.
+
+* Do Not Disturb shot 58.5% from the field
+  and 56.5% from three-point range.
+  Efficient shooting night for Do Not Disturb.
+
+* Lights Out shot 67.4% from the field
+  and 58.3% from three-point range.
+  Efficient shooting night for Lights Out.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

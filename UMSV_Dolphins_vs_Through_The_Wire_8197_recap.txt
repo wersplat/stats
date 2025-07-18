@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+UMSV Dolphins vs Through The Wire
+Date: Sunday, February 23, 2025 10:48 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         UMSV Dolphins             Through The Wire         
+---------------------------------------------------------------------------
+Field Goals:              20-39 (51.3%)             27-42 (64.3%)            
+3-Pointers:               9-22 (40.9%)              12-21 (57.1%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 18                        15                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  11                        19                       
+Steals:                   7                         9                        
+Blocks:                   1                         0                        
+Turnovers:                9                         7                        
+Fouls:                    3                         11                       
+Points:                   59                        67                       
+True Shooting %:          75.6%                     79.8%                    
+Assist/TO Ratio:          1.2                       2.7                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+UMSV Dolphins Players:
+  Venom2K TTV (UMSV Dolphins): 34 PTS, 1 REB, 4 AST
+     12-21 FG (57.1%), 7-12 3FG (58.3%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 4 TO, 1.0 pf
+  KingMixtapeeTTV (UMSV Dolphins): 8 PTS, 1 REB, 0 AST
+     2-7 FG (28.6%), 0-4 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO
+  ShowRWE (UMSV Dolphins): 7 PTS, 16 REB, 4 AST
+     2-2 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  Stormache (UMSV Dolphins): 5 PTS, 0 REB, 1 AST
+     2-5 FG (40.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO
+  II Aido II (UMSV Dolphins): 5 PTS, 0 REB, 2 AST
+     2-4 FG (50.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 3 TO, 1.0 pf
+
+Through The Wire Players:
+  ynCrab (Through The Wire): 24 PTS, 0 REB, 6 AST
+     9-10 FG (90.0%), 5-5 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO, 2.0 pf
+  TrollMyBreak (Through The Wire): 18 PTS, 0 REB, 2 AST
+     8-16 FG (50.0%), 2-7 3FG (28.6%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  BiigTrussii (Through The Wire): 15 PTS, 14 REB, 4 AST
+     6-10 FG (60.0%), 3-6 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 3.0 pf
+  Excilents (Through The Wire): 6 PTS, 1 REB, 3 AST
+     2-2 FG (100.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO, 3.0 pf
+  mac spams x (Through The Wire): 4 PTS, 0 REB, 4 AST
+     2-4 FG (50.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     6 STL, 0 BLK, 1 TO, 3.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Venom2K TTV (UMSV Dolphins) (UMSV Dolphins) led all scorers with 34 points.
+* ShowRWE (UMSV Dolphins) (UMSV Dolphins) dominated the boards with 16 rebounds.
+* ynCrab (Through The Wire) (Through The Wire) dished out a game-high 6 assists.
+
+* UMSV Dolphins shot 51.3% from the field
+  and 40.9% from three-point range.
+  Efficient shooting night for UMSV Dolphins.
+
+* Through The Wire shot 64.3% from the field
+  and 57.1% from three-point range.
+  Efficient shooting night for Through The Wire.
+
+==================================================

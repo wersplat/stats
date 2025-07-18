@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+On Site vs Lights Out
+Date: Saturday, March 22, 2025 01:13 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         On Site                   Lights Out               
+---------------------------------------------------------------------------
+Field Goals:              27-49 (55.1%)             27-45 (60.0%)            
+3-Pointers:               13-25 (52.0%)             15-31 (48.4%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 19                        17                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  16                        21                       
+Steals:                   7                         3                        
+Blocks:                   1                         0                        
+Turnovers:                3                         7                        
+Fouls:                    6                         6                        
+Points:                   71                        69                       
+True Shooting %:          72.4%                     76.7%                    
+Assist/TO Ratio:          5.3                       3.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+On Site Players:
+  IlDosh (On Site): 22 PTS, 0 REB, 2 AST
+     8-15 FG (53.3%), 6-13 3FG (46.2%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  P7Precise (On Site): 15 PTS, 1 REB, 6 AST
+     6-15 FG (40.0%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  llJMAR (On Site): 13 PTS, 2 REB, 1 AST
+     5-6 FG (83.3%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 1.0 pf
+  Chuba (On Site): 12 PTS, 15 REB, 6 AST
+     5-5 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO
+  xSoldK (On Site): 9 PTS, 1 REB, 1 AST
+     3-8 FG (37.5%), 3-5 3FG (60.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 0 TO, 4.0 pf
+
+Lights Out Players:
+  itZGmac (Lights Out): 22 PTS, 0 REB, 6 AST
+     8-16 FG (50.0%), 6-14 3FG (42.9%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  HitFlu (Lights Out): 16 PTS, 0 REB, 2 AST
+     6-11 FG (54.5%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 3.0 pf
+  FatNiinja_ (Lights Out): 12 PTS, 5 REB, 2 AST
+     4-5 FG (80.0%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  xFatboyTrae (Lights Out): 10 PTS, 12 REB, 3 AST
+     5-5 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 2.0 pf
+  ReallyTM (Lights Out): 9 PTS, 0 REB, 8 AST
+     4-8 FG (50.0%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 5 TO
+
+-------------------- GAME NOTES --------------------
+
+* IlDosh (On Site) (On Site) led all scorers with 22 points.
+* Chuba (On Site) (On Site) dominated the boards with 15 rebounds.
+* ReallyTM (Lights Out) (Lights Out) dished out a game-high 8 assists.
+
+* On Site shot 55.1% from the field
+  and 52.0% from three-point range.
+  Efficient shooting night for On Site.
+  Excellent ball protection with just 3 turnovers.
+
+* Lights Out shot 60.0% from the field
+  and 48.4% from three-point range.
+  Efficient shooting night for Lights Out.
+
+==================================================

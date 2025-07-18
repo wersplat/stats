@@ -1,0 +1,80 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Generation of Miracles vs Liquid Pro Am
+Date: Monday, February 24, 2025 12:24 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Generation of Miracles    Liquid Pro Am            
+---------------------------------------------------------------------------
+Field Goals:              20-33 (60.6%)             24-33 (72.7%)            
+3-Pointers:               8-19 (42.1%)              14-26 (53.8%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 4                         15                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  14                        14                       
+Steals:                   5                         10                       
+Blocks:                   1                         1                        
+Turnovers:                12                        6                        
+Fouls:                    6                         6                        
+Points:                   49                        69                       
+True Shooting %:          74.2%                     104.5%                   
+Assist/TO Ratio:          1.2                       2.3                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Generation of Miracles Players:
+  JoexIngIes (Generation of Miracles): 20 PTS, 0 REB, 9 AST
+     7-12 FG (58.3%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 7 TO
+  ByronRussel (Generation of Miracles): 15 PTS, 2 REB, 0 AST
+     7-8 FG (87.5%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     4 STL, 1 BLK, 1 TO, 2.0 pf
+  PlsDontSlip (Generation of Miracles): 8 PTS, 2 REB, 3 AST
+     3-5 FG (60.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 1.0 pf
+  BenSkywalker (Generation of Miracles): 6 PTS, 0 REB, 2 AST
+     3-8 FG (37.5%), 0-5 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO, 3.0 pf
+
+Liquid Pro Am Players:
+  Bamdagoat (Liquid Pro Am): 26 PTS, 0 REB, 3 AST
+     7-7 FG (100.0%), 5-12 3FG (41.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  antoinelove (Liquid Pro Am): 19 PTS, 0 REB, 4 AST
+     7-12 FG (58.3%), 5-9 3FG (55.6%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 2 TO
+  EffieMorales (Liquid Pro Am): 14 PTS, 5 REB, 2 AST
+     5-6 FG (83.3%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     6 STL, 1 BLK, 1 TO, 2.0 pf
+  Zayy (Liquid Pro Am): 6 PTS, 0 REB, 0 AST
+     3-6 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 1.0 pf
+  I-Deezyy- (Liquid Pro Am): 4 PTS, 10 REB, 5 AST
+     2-2 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 2 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Bamdagoat (Liquid Pro Am) (Liquid Pro Am) led all scorers with 26 points.
+* I-Deezyy- (Liquid Pro Am) (Liquid Pro Am) dominated the boards with 10 rebounds.
+* JoexIngIes (Generation of Miracles) (Generation of Miracles) dished out a game-high 9 assists.
+
+* Generation of Miracles shot 60.6% from the field
+  and 42.1% from three-point range.
+  Efficient shooting night for Generation of Miracles.
+
+* Liquid Pro Am shot 72.7% from the field
+  and 53.8% from three-point range.
+  Efficient shooting night for Liquid Pro Am.
+
+==================================================

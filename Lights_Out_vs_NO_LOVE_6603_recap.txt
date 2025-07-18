@@ -1,0 +1,84 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Lights Out vs NO LOVE
+Date: Thursday, January 02, 2025 05:13 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Lights Out                NO LOVE                  
+---------------------------------------------------------------------------
+Field Goals:              22-38 (57.9%)             21-41 (51.2%)            
+3-Pointers:               13-25 (52.0%)             9-21 (42.9%)             
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 17                        17                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  18                        13                       
+Steals:                   5                         4                        
+Blocks:                   2                         1                        
+Turnovers:                4                         6                        
+Fouls:                    5                         11                       
+Points:                   63                        53                       
+True Shooting %:          82.9%                     64.6%                    
+Assist/TO Ratio:          4.5                       2.2                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Lights Out Players:
+  Yepeville (Lights Out): 24 PTS, 0 REB, 3 AST
+     8-13 FG (61.5%), 6-10 3FG (60.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 1.0 pf
+  HitFlu (Lights Out): 18 PTS, 1 REB, 0 AST
+     7-9 FG (77.8%), 4-5 3FG (80.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 2 TO, 4.0 pf
+  ReallyTM (Lights Out): 12 PTS, 2 REB, 6 AST
+     3-6 FG (50.0%), 3-6 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+  xFatboyTrae (Lights Out): 9 PTS, 13 REB, 7 AST
+     4-6 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO
+  FatNiinja_ (Lights Out): 0 PTS, 1 REB, 2 AST
+     0-4 FG (0.0%), 0-4 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 0 TO
+
+NO LOVE Players:
+  HGGAME (NO LOVE): 25 PTS, 0 REB, 5 AST
+     10-20 FG (50.0%), 3-10 3FG (30.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 1.0 pf
+  iStamped (NO LOVE): 9 PTS, 3 REB, 0 AST
+     3-3 FG (100.0%), 3-3 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  GINGRFREDMEN (NO LOVE): 8 PTS, 0 REB, 2 AST
+     3-9 FG (33.3%), 2-6 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 3.0 pf
+  NIN3 S3V3N THR33 (NO LOVE): 6 PTS, 6 REB, 5 AST
+     3-3 FG (100.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 2.0 pf
+  DuhKlawTTV (NO LOVE): 5 PTS, 8 REB, 1 AST
+     2-6 FG (33.3%), 1-2 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 2 TO, 5.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* HGGAME (NO LOVE) (NO LOVE) led all scorers with 25 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 13 rebounds.
+* xFatboyTrae (Lights Out) (Lights Out) dished out a game-high 7 assists.
+
+* Lights Out shot 57.9% from the field
+  and 52.0% from three-point range.
+  Efficient shooting night for Lights Out.
+  Excellent ball protection with just 4 turnovers.
+
+* NO LOVE shot 51.2% from the field
+  and 42.9% from three-point range.
+  Efficient shooting night for NO LOVE.
+
+==================================================

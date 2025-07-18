@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+PackemUpGang vs Bodega Cats
+Date: Monday, January 20, 2025 12:27 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         PackemUpGang              Bodega Cats              
+---------------------------------------------------------------------------
+Field Goals:              21-44 (47.7%)             34-60 (56.7%)            
+3-Pointers:               8-18 (44.4%)              14-28 (50.0%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 19                        25                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  20                        28                       
+Steals:                   5                         11                       
+Blocks:                   2                         1                        
+Turnovers:                14                        5                        
+Fouls:                    6                         9                        
+Points:                   54                        85                       
+True Shooting %:          61.4%                     70.8%                    
+Assist/TO Ratio:          1.4                       5.6                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+PackemUpGang Players:
+  Louchalee (PackemUpGang): 21 PTS, 0 REB, 2 AST
+     8-15 FG (53.3%), 5-8 3FG (62.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO
+  Chino_BRGNDY (PackemUpGang): 12 PTS, 0 REB, 5 AST
+     3-9 FG (33.3%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 4 TO, 6.0 pf
+  PackEmUpGangDrew (PackemUpGang): 10 PTS, 5 REB, 3 AST
+     5-10 FG (50.0%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 6 TO
+  StoryFundamental (PackemUpGang): 7 PTS, 13 REB, 7 AST
+     3-5 FG (60.0%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 2 BLK, 0 TO
+  IGREENFORFUN354 (PackemUpGang): 4 PTS, 1 REB, 3 AST
+     2-5 FG (40.0%), 0-3 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO
+
+Bodega Cats Players:
+  Goldenboy YP (Bodega Cats): 31 PTS, 1 REB, 10 AST
+     13-21 FG (61.9%), 5-10 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 4 TO, 4.0 pf
+  OckTheShooter (Bodega Cats): 23 PTS, 2 REB, 0 AST
+     9-14 FG (64.3%), 5-8 3FG (62.5%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO
+  GK1LLER77 (Bodega Cats): 13 PTS, 1 REB, 7 AST
+     4-8 FG (50.0%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 2.0 pf
+  T2E xLOUx X6 (Bodega Cats): 10 PTS, 2 REB, 4 AST
+     4-11 FG (36.4%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     6 STL, 0 BLK, 0 TO, 3.0 pf
+  Scottieontv (Bodega Cats): 8 PTS, 19 REB, 7 AST
+     4-6 FG (66.7%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 1 TO
+
+-------------------- GAME NOTES --------------------
+
+* Goldenboy YP (Bodega Cats) (Bodega Cats) led all scorers with 31 points.
+* Scottieontv (Bodega Cats) (Bodega Cats) dominated the boards with 19 rebounds.
+* Goldenboy YP (Bodega Cats) (Bodega Cats) dished out a game-high 10 assists.
+
+* PackemUpGang shot 47.7% from the field
+  and 44.4% from three-point range.
+
+* Bodega Cats shot 56.7% from the field
+  and 50.0% from three-point range.
+  Efficient shooting night for Bodega Cats.
+  Excellent ball protection with just 5 turnovers.
+
+==================================================

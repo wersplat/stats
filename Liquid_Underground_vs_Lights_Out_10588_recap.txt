@@ -1,0 +1,82 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Liquid Underground vs Lights Out
+Date: Friday, March 21, 2025 11:02 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Liquid Underground        Lights Out               
+---------------------------------------------------------------------------
+Field Goals:              27-42 (64.3%)             21-45 (46.7%)            
+3-Pointers:               11-21 (52.4%)             10-23 (43.5%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 19                        16                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  19                        9                        
+Steals:                   7                         8                        
+Blocks:                   2                         0                        
+Turnovers:                9                         11                       
+Fouls:                    11                        8                        
+Points:                   73                        57                       
+True Shooting %:          86.9%                     63.3%                    
+Assist/TO Ratio:          2.1                       0.8                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Liquid Underground Players:
+  xDoov (Liquid Underground): 32 PTS, 1 REB, 3 AST
+     12-15 FG (80.0%), 6-8 3FG (75.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 1.0 pf
+  RUN N DUNK (Liquid Underground): 14 PTS, 14 REB, 7 AST
+     4-5 FG (80.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 1 TO, 2.0 pf
+  UltimateKrabz (Liquid Underground): 11 PTS, 0 REB, 8 AST
+     4-12 FG (33.3%), 3-9 3FG (33.3%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 5 TO, 2.0 pf
+  Mav 39 Ace (Liquid Underground): 10 PTS, 0 REB, 1 AST
+     5-6 FG (83.3%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 2.0 pf
+  ThyReelManny (Liquid Underground): 6 PTS, 4 REB, 0 AST
+     2-4 FG (50.0%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 2 TO, 4.0 pf
+
+Lights Out Players:
+  itZGmac (Lights Out): 23 PTS, 0 REB, 2 AST
+     8-18 FG (44.4%), 7-16 3FG (43.8%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 3 TO, 2.0 pf
+  ReallyTM (Lights Out): 15 PTS, 0 REB, 2 AST
+     6-14 FG (42.9%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 5 TO
+  HitFlu (Lights Out): 12 PTS, 0 REB, 0 AST
+     5-8 FG (62.5%), 2-3 3FG (66.7%), 0-0 FT (0.0%)
+     2 STL, 0 BLK, 0 TO, 4.0 pf
+  xFatboyTrae (Lights Out): 7 PTS, 15 REB, 5 AST
+     2-4 FG (50.0%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 1.0 pf
+  FatNiinja_ (Lights Out): 0 PTS, 1 REB, 0 AST
+     0-1 FG (0.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* xDoov (Liquid Underground) (Liquid Underground) led all scorers with 32 points.
+* xFatboyTrae (Lights Out) (Lights Out) dominated the boards with 15 rebounds.
+* UltimateKrabz (Liquid Underground) (Liquid Underground) dished out a game-high 8 assists.
+
+* Liquid Underground shot 64.3% from the field
+  and 52.4% from three-point range.
+  Efficient shooting night for Liquid Underground.
+
+* Lights Out shot 46.7% from the field
+  and 43.5% from three-point range.
+
+==================================================

@@ -1,0 +1,80 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Sup vs High Octane
+Date: Thursday, January 02, 2025 02:02 AM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Superlatives              High Octane              
+---------------------------------------------------------------------------
+Field Goals:              19-45 (42.2%)             26-46 (56.5%)            
+3-Pointers:               13-31 (41.9%)             11-21 (52.4%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 4                         24                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  11                        22                       
+Steals:                   6                         3                        
+Blocks:                   1                         1                        
+Turnovers:                1                         9                        
+Fouls:                    8                         11                       
+Points:                   63                        67                       
+True Shooting %:          70.0%                     72.8%                    
+Assist/TO Ratio:          11.0                      2.4                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Superlatives Players:
+  Duciples (Superlatives): 30 PTS, 0 REB, 5 AST
+     9-17 FG (52.9%), 6-12 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 3.0 pf
+  pGrinch (Superlatives): 18 PTS, 0 REB, 3 AST
+     6-16 FG (37.5%), 3-12 3FG (25.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 0 TO
+  Wavyy (Superlatives): 8 PTS, 3 REB, 0 AST
+     2-5 FG (40.0%), 2-2 3FG (100.0%), 0-0 FT (0.0%)
+     2 STL, 1 BLK, 0 TO, 1.0 pf
+  TreBxndz (Superlatives): 7 PTS, 1 REB, 3 AST
+     2-7 FG (28.6%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 0 TO, 4.0 pf
+
+High Octane Players:
+  TruDe3mon (High Octane): 17 PTS, 15 REB, 4 AST
+     8-9 FG (88.9%), 1-1 3FG (100.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 1 TO, 3.0 pf
+  TayneJr (High Octane): 16 PTS, 1 REB, 6 AST
+     5-12 FG (41.7%), 4-8 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 4 TO, 4.0 pf
+  iMxWORK (High Octane): 13 PTS, 6 REB, 5 AST
+     5-9 FG (55.6%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  IIlyWooll (High Octane): 11 PTS, 0 REB, 0 AST
+     5-6 FG (83.3%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     1 STL, 1 BLK, 1 TO, 1.0 pf
+  LLRXNDO (High Octane): 10 PTS, 2 REB, 7 AST
+     3-10 FG (30.0%), 2-4 3FG (50.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO, 2.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* Duciples (Superlatives) (Superlatives) led all scorers with 30 points.
+* TruDe3mon (High Octane) (High Octane) dominated the boards with 15 rebounds.
+* LLRXNDO (High Octane) (High Octane) dished out a game-high 7 assists.
+
+* Superlatives shot 42.2% from the field
+  and 41.9% from three-point range.
+  Excellent ball protection with just 1 turnovers.
+
+* High Octane shot 56.5% from the field
+  and 52.4% from three-point range.
+  Efficient shooting night for High Octane.
+
+==================================================

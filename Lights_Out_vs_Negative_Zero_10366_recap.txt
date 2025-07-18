@@ -1,0 +1,83 @@
+==================================================
+                    GAME RECAP                    
+==================================================
+
+-------------------- GAME INFO --------------------
+Lights Out vs Negative Zero
+Date: Monday, March 17, 2025 08:58 PM
+Status: Scheduled
+
+--------------------------------------------------
+
+-------------------- TEAM STATISTICS --------------------
+
+                         Lights Out                Negative Zero            
+---------------------------------------------------------------------------
+Field Goals:              25-41 (61.0%)             25-46 (54.3%)            
+3-Pointers:               16-28 (57.1%)             11-21 (52.4%)            
+Free Throws:              0-0 (0.0%)                0-0 (0.0%)               
+Rebounds:                 17                        17                       
+Offensive Rebounds:       0                         0                        
+Defensive Rebounds:       0                         0                        
+Assists:                  19                        14                       
+Steals:                   5                         7                        
+Blocks:                   3                         0                        
+Turnovers:                10                        7                        
+Fouls:                    9                         8                        
+Points:                   68                        65                       
+True Shooting %:          82.9%                     70.7%                    
+Assist/TO Ratio:          1.9                       2.0                      
+
+--------------------------------------------------
+
+--- PLAYER STATISTICS ---
+
+Lights Out Players:
+  itZGmac (Lights Out): 30 PTS, 0 REB, 6 AST
+     10-15 FG (66.7%), 10-14 3FG (71.4%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 5 TO, 2.0 pf
+  HitFlu (Lights Out): 19 PTS, 0 REB, 1 AST
+     8-9 FG (88.9%), 3-4 3FG (75.0%), 0-0 FT (0.0%)
+     3 STL, 0 BLK, 1 TO, 5.0 pf
+  ReallyTM (Lights Out): 12 PTS, 0 REB, 7 AST
+     4-8 FG (50.0%), 2-5 3FG (40.0%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 2 TO
+  xFatboyTrae (Lights Out): 4 PTS, 13 REB, 3 AST
+     2-5 FG (40.0%), 0-1 3FG (0.0%), 0-0 FT (0.0%)
+     0 STL, 1 BLK, 1 TO, 2.0 pf
+  FatNiinja_ (Lights Out): 3 PTS, 4 REB, 2 AST
+     1-4 FG (25.0%), 1-4 3FG (25.0%), 0-0 FT (0.0%)
+     1 STL, 2 BLK, 1 TO
+
+Negative Zero Players:
+  BlameSho (Negative Zero): 26 PTS, 0 REB, 1 AST
+     9-14 FG (64.3%), 6-9 3FG (66.7%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 1 TO, 1.0 pf
+  BlameChan (Negative Zero): 21 PTS, 0 REB, 5 AST
+     8-13 FG (61.5%), 4-7 3FG (57.1%), 0-0 FT (0.0%)
+     0 STL, 0 BLK, 3 TO
+  BlameFendi (Negative Zero): 14 PTS, 17 REB, 5 AST
+     7-9 FG (77.8%), 0-0 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 3 TO, 1.0 pf
+  CatchingBlessing (Negative Zero): 3 PTS, 0 REB, 3 AST
+     1-5 FG (20.0%), 1-3 3FG (33.3%), 0-0 FT (0.0%)
+     4 STL, 0 BLK, 0 TO, 2.0 pf
+  JitZeus (Negative Zero): 1 PTS, 0 REB, 0 AST
+     0-5 FG (0.0%), 0-2 3FG (0.0%), 0-0 FT (0.0%)
+     1 STL, 0 BLK, 0 TO, 4.0 pf
+
+-------------------- GAME NOTES --------------------
+
+* itZGmac (Lights Out) (Lights Out) led all scorers with 30 points.
+* BlameFendi (Negative Zero) (Negative Zero) dominated the boards with 17 rebounds.
+* ReallyTM (Lights Out) (Lights Out) dished out a game-high 7 assists.
+
+* Lights Out shot 61.0% from the field
+  and 57.1% from three-point range.
+  Efficient shooting night for Lights Out.
+
+* Negative Zero shot 54.3% from the field
+  and 52.4% from three-point range.
+  Efficient shooting night for Negative Zero.
+
+==================================================
